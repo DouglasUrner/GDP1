@@ -1,4 +1,4 @@
-## Create A Code.Org Account
+# Create A Code.Org Account
 
 Go to: **https://studio.code.org/users/sign_up**
 
@@ -8,7 +8,7 @@ Use the Google button - the red one on top.
 
 ---
 
-## Join Our Class
+# Join Our Class
 
 Go to: **https://code.org/join**
 
