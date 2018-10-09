@@ -1,3 +1,15 @@
+## Warm Up
+
+What do you need to communicate with an intelligent graphics card to get it to draw simple shapes such as circles and squares?
+
+---
+
+# Wanted Brave Volunteers
+
+To simulate high end intelligent graphics card.
+
+---
+
 ![](https://cdo-curriculum.s3.amazonaws.com/media/uploads/Screenshot-2017-05-24-at-1.13.21-PM.png)
 
 ---
