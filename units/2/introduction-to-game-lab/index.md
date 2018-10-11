@@ -13,8 +13,10 @@ B-Bays:
 * 7th Block: [**DVMZLR**](https://studio.code.org/join/DVMZLR)
 * 8th Block: [**JZNWTT**](https://studio.code.org/join/JZNWTT)
 
-Please double check that you account shows your first and last names as it appear in Canvas or Skyward.
+**Please double check that you account shows your first and last names as it appear in Canvas or Skyward.**
 
 Then, work through all 10 sections of Lesson 3: Drawing in Game Lab. Visit the informational pages so that you know what is there and try out the challenges.
+
+## Submission
 
 Submit a **window** screen capture of the Lesson Extras page for Lesson 3, showing the progress bar at the top and your creation.
