@@ -1,7 +1,8 @@
 ## Warm Up
 
 Where will these shapes be displayed?
-**rect(0, 0);
+
+**rect(0, 0);**
 
 **rect(200, 200);**
 
