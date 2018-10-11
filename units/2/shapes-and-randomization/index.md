@@ -20,6 +20,7 @@ Work through the steps of the lesson, if you are finding that you need an additi
 
 ## Challenges
 
+* Make a background without using the **background()** function.
 * In step 8 make the cloud look more "cloudlike".
 * In step 12 generate a random color.
 * Use the randomNumber() function to create a realistic cloud. Vary the shape *and* position of the cloud. Does it look better if you also vary the color a bit? What are reasonable bounds on your parameters?
