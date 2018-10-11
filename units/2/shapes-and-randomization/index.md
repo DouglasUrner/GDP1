@@ -13,6 +13,11 @@ Today we're going to see how to change the size and proportions of the shapes as
 
 Work through the steps of the lesson, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
+### Learning Targets:
+
+* I can use the drawing commands with multiple parameters to create more complex and interesting shapes.
+* I can generate and use random numbers to add variation to my shapes - to add interest and create more realistic scenes.
+
 ## Challenges
 
 * In step 8 make the cloud look more "cloudlike".
