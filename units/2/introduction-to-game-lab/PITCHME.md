@@ -2,6 +2,8 @@
 
 What do you need to communicate with an intelligent graphics card to get it to draw simple shapes such as circles and squares?
 
+In your notebook record your ideas.
+
 ---
 
 # Wanted Brave Volunteers
