@@ -10,6 +10,8 @@ Where will these shapes be displayed?
 
 **rect(400, 400);**
 
+Draw a sketch in your notes.
+
 ---
 
 ## Journal Entry
