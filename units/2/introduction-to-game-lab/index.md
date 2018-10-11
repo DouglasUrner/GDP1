@@ -6,7 +6,7 @@ Start by signing up for an account on Code.Org by clicking on this link [https:/
 
 A-Days:
 * 1st Block: **HFQYYG**
-* 2nd Block: **XHLZSD**
+* 2nd Block: [**XHLZSD**](https://code.org/join/XHLZSD)
 * 4th Block: **XNMWYR**
 
 B-Bays:
