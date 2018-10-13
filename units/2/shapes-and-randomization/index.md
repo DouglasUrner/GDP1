@@ -1,17 +1,17 @@
 
 # Shapes, Parameters, and Random Numbers
 
-The formal name for code like the code that we used to draw rectangles and elipses in the last lesson:
+The name that JavaScript uses for the code element that we used to draw rectangles and elipses in the last lesson:
 
 **rect(100, 100);**
 
-is a ***function*** (or a *procedure* or a *method*). In the last lesson you saw how to change the ***parameters*** of the **rect()** and **elipse()** functions to change the location of the shape.
+is a ***function*** (other languages may use different terms, *procedure* and *method* are common). In the last lesson you saw how to change the ***parameters*** of the **rect()** and **elipse()** functions to change the location of the shape.
 
 Today we're going to see how to change the size and proportions of the shapes as well.
 
 ## Lesson 4: Shapes and Randomization
 
-Work through the steps of the lesson, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Lesson 4]()), if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
 ### Learning Targets:
 
