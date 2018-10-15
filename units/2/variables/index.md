@@ -12,6 +12,7 @@ Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Les
 
 * What is the difference between assigning the value 123 to a variable and assigning the value "123" to the variable? What is the significance of surrounding the value in quotes?
 * Variables help us to document and organize our code, but even more importantly they allow us to calculate values that we use in our code. Can you think of a way to use this to draw a rainbow? Once you have an idea, try it out - it is legal to do research.
+* Besides CamelCase what other conventions are used to write variable names?
 
 ## Submission
 
