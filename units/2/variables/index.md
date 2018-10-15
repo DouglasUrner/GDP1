@@ -8,6 +8,11 @@ Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Les
 * I can use variables in a program to store a piece of information that will be used multiple times.
 * I can figure out and fix common errors encountered when using variables in my programs.
 
+### Challenges
+
+* What is the difference between assigning the value 123 to a variable and assigning the value "123" to the variable? What is the significance of surrounding the value in quotes?
+* Variables help us to document and organize our code, but even more importantly they allow us to calculate values that we use in our code. Can you think of a way to use this to draw a rainbow? Once you have an idea, try it out - it is legal to do research.
+
 ## Submission
 
 Submit a **window** screen capture of the Lesson Extras page for Lesson 5, showing the progress bar at the top and your creation.
