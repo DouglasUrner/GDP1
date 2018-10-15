@@ -19,3 +19,5 @@ How would you suggest that they change it?
 Note:
 
 ---
+
+![](http://www.rosent.de/media/DebuggingNum.png)
