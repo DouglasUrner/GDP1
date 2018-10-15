@@ -12,6 +12,8 @@ rect;originX, originY; width; height;
 
 What do you think the author intended?
 
-What seems wrong about this code?
+What seems wrong about this code? Make a list of things to try in your notes.
+
+How would you suggest that they change it?
 
 ---
