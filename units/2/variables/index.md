@@ -1,6 +1,6 @@
 ## Lesson 5: Variables
 
-Work through the steps of the lesson [])() - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Lesson 5 - Variables](https://studio.code.org/s/csd3-2018/stage/5/puzzle/1)) - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
 ### Learning Targets:
 
