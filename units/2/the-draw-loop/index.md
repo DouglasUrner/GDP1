@@ -10,7 +10,7 @@ Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Les
 
 ### Challenges
 
-* 
+* In part 9, how could you make the brush move smoothly, as if an invisible hand were painting with it?
 
 ## Submission
 
