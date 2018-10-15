@@ -1,6 +1,6 @@
 ## Lesson 5: Variables
 
-Work through the steps of the lesson, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+Work through the steps of the lesson [])() - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
 ### Learning Targets:
 
