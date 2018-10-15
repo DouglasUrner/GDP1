@@ -15,7 +15,7 @@ B-Bays:
 
 ## Lesson 3: Drawing in Game Lab
 
-Then, work through all 10 sections of [Computer Science Discoveries Unit3 Lesson 3: Drawing in Game Lab](https://studio.code.org/s/csd3-2018/stage/3/puzzle/1). Visit the informational pages so that you know what is there and try out the challenges.
+Then, work through all 10 sections of [Computer Science Discoveries Unit3 Lesson 3: Drawing in Game Lab](https://studio.code.org/s/csd3-2018/stage/3/puzzle/1) - Control-click on the link to open it in a new tab. Visit the informational pages so that you know what is there and try out the challenges.
 
 ### Learning Targets
 
