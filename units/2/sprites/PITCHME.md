@@ -7,7 +7,7 @@ var originX = 100;
 var originY = 42;
 var width = 50;
 var height =
-rect;originX, originY; width; height;
+rect;originX, originY, width, height;
 ```
 
 What do you think the author intended?
