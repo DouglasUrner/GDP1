@@ -1,6 +1,6 @@
 ## Lesson 5: Variables
 
-Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Lesson 5 - Variables](https://studio.code.org/s/csd3-2018/stage/5/puzzle/1)) - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Lesson 5 - Variables](https://studio.code.org/s/csd3-2018/stage/5/puzzle/1)) - Control-click on the link to open it in a new tab. If you are finding that you would like an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
 ### Learning Targets:
 
@@ -10,9 +10,9 @@ Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Les
 
 ### Challenges
 
+* Besides CamelCase what other naming conventions are used for variable names? What conventions are commonly used for JavaScript and C# programs?
 * What is the difference between assigning the value 123 to a variable and assigning the value "123" to the variable? What is the significance of surrounding a value in quotes?
 * Variables help us to document and organize our code, but even more importantly they allow us to calculate values that we use in our code. Can you think of a way to use this to draw a rainbow? Once you have an idea, try it out - it is legal to do research.
-* Besides CamelCase what other naming conventions are used for variable names? What conventions are commonly used for JavaScript and C# programs?
 
 ## Submission
 
