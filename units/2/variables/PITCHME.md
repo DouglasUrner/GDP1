@@ -1,3 +1,8 @@
+## Please Pick Up Your Notebooks
+### and a copy of the handout
+
+---
+
 ## Program 1
 
 ```javascript
