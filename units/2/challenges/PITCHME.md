@@ -21,7 +21,6 @@ What color will it be? Transparent middle gray.
 Try one of these:
 
 * Create a scene with "atmosphere" - for example a foggy day or a rain or snow storm.
-* Create scene that shows the passage of time (sun rising and setting, snow accumulating, etc.).
 * Put a "face" on the snake from Lesson 4 step 12 **and** have it move with the ellipse as the ellipse moves randomly.
 
 Develop your ideas in your **notes,** then make a plan for how to test them out, finally create the scene as a new **Game Lab project**.
