@@ -12,11 +12,11 @@ What color will it be? Transparent middle gray.
 
 ---
 
-# Agenda
+## Agenda
 
-### Complete lessons 3-7 on Code.Org
+* **Complete lessons 3-7 on Code.Org**
 
-### If You've Finished Lesson 7...
+* **If You've Finished Lesson 7...**
 
 Try one of these:
 
