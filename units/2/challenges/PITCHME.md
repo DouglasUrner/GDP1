@@ -1,10 +1,12 @@
 ## Warm Up:
 
-What do these code fragments do?
+What does this code fragment do?
 
-**var xPos = randomNumber(100, 300);**
-
-**fill(rgb(128, 128, 128, 0.5));**
+```javascript
+var xPos = randomNumber(100, 300);
+fill(rgb(128, 128, 128, 0.5));
+rect(xPos, 175);
+```
 
 Note:
 
