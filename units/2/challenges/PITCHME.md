@@ -2,9 +2,9 @@
 
 What do these code fragments do?
 
-### var xPos = randomNumber(100, 300);
+**var xPos = randomNumber(100, 300);**
 
-### fill(rgb(128, 128, 128, 0.5));
+**fill(rgb(128, 128, 128, 0.5));**
 
 Note:
 
