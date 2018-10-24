@@ -1,0 +1,30 @@
+## Lesson 8: The Counter Pattern
+
+Patterns are insights into writing code that give us solutions to commonly occurring problems that we need to solve as we create programs. One of the most common problems is implementing an incremental change over time - for example a sprite moving across the screen - the **counter pattern** gives us a very simple solution to this problem.
+
+### Learning Targets:
+
+* I can describe the connection between updating a sprite's location properties and the sprite's movement on the screen.
+* I can read and follow the steps of a short program written in pseudocode that manipulates variable values.
+* I can describe and use the **counter pattern** in a program that moves a sprite in my scene.
+
+### Project
+
+For this project we will use the **Project** facility on the Code.Org web site to create an animated scene using the full GameLab IDE. Your goal is to code a scene in which you show off the skills that you have been developing:
+
+* Creating simple shapes and backgrounds.
+* Using the ```randomNumber()``` function.
+* Organizing your code with variables.
+* Creating sprites and adding an animation (image) to them.
+* Using the **draw loop** to animate a scene.
+
+Combine those skills with the **counter pattern** to animate a scene of your design.
+
+## Submissions
+
+Please make sure that your name is on the **Variables Unplugged** acticvity guide and turn it in.
+
+Submit a PDF document in which you:
+
+* Explain the **Counter Pattern** in your own words, using examples from your project.
+* Include a link to your project on Game Lab.
