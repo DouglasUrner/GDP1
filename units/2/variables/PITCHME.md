@@ -103,3 +103,24 @@ drawSprites();
 ```
 
 On your handout, sketch the location(s) of the smileyFace sprite.
+
+---
+
+## The Counter Pattern
+
+Note: reusable patterns are one of the big ideas of learning to program - well understood solutions to common problems that can be applied across a range of situations.
+
+---
+
+## Operators
+
+In order of precedence:
+
+| P | **(** and **)** | Paren |
+| E |
+| M and D | ** * ** and **/** | |
+| A and S | **+** and **-** | Addition and subtraction |
+
+---
+
+## Project
