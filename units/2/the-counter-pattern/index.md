@@ -1,4 +1,4 @@
-## Lesson 8: 
+## Lesson 9: Sprite Movement
 
 After we 
 
