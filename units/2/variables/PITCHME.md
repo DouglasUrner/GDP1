@@ -118,9 +118,11 @@ In order of precedence:
 
 |   | Operator | Operation |
 |:-:|:-:       |---|
-| P | **(** and **)** | Paren |
-| E |
-| M and D | ** * ** and **/** | |
+| P | **(** and **)** | Grouping |
+|   | __.__ | Member access |
+|   | __++__ and __--__ | Postfix increment and decrement |
+| E | __**__  | Exponentiation |
+| M and D | __*__ and **/** | |
 | A and S | **+** and **-** | Addition and subtraction |
 
 ---
