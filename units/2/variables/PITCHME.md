@@ -116,6 +116,8 @@ Note: reusable patterns are one of the big ideas of learning to program - well u
 
 In order of precedence:
 
+|   | Operator | Operation |
+|:-:|:-:       |---|
 | P | **(** and **)** | Paren |
 | E |
 | M and D | ** * ** and **/** | |
