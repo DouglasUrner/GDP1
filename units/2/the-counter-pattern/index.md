@@ -10,7 +10,15 @@ Patterns are insights into writing code that give us solutions to commonly occur
 
 ### Project
 
-For this project we will use the **Project** facility on the Code.Org web site to create an animated scene using the full GameLab IDE. Your goal is to code a scene in which you show off the skills that you have been developing:
+For this project we will use the **Project** facility on the Code.Org web site to create an animated scene using the full GameLab IDE. Before you start coding, work out your scene idea(s) in your notes (be sure they are dated) - remember to include an element that uses the counter pattern. When you are ready to start coodoing, you cano get to the Projects section by:
+
+1. Go to **My Dashboard** to get there:
+   - Click on the black Code.Org logo in the upper left hand corner.
+   - Click on the pancake (there horizontal lines) logo in the uppper right hand corner, then select My Dashboard from the dropdown menu.
+2. In the menu bar at the top of the window, click on the **Projects** tab.
+3. From the projects page, select the **GameLab** IDE.
+
+Your goal is to code a scene in which you show off the skills that you have been developing:
 
 * Creating simple shapes and backgrounds.
 * Using the ```randomNumber()``` function.
@@ -21,6 +29,8 @@ For this project we will use the **Project** facility on the Code.Org web site t
 Combine those skills with the **counter pattern** to animate a scene of your design.
 
 ## Submissions
+
+Finalize your project for submission by clicking on the **Share** button, then copy the resulting URL to include in your submission.
 
 Please make sure that your name is on the **Variables Unplugged** acticvity guide and turn it in.
 
