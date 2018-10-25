@@ -2,6 +2,12 @@
 
 Patterns are insights into writing code that give us solutions to commonly occurring problems that we need to solve as we create programs. One of the most common problems is implementing an incremental change over time - for example a sprite moving across the screen - the **counter pattern** gives us a very simple solution to this problem.
 
+### The Counter Pattern
+
+```javascript
+draw()
+```
+
 ### Learning Targets:
 
 * I can describe the connection between updating a sprite's location properties and the sprite's movement on the screen.
