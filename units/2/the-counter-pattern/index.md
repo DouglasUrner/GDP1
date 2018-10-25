@@ -4,9 +4,7 @@ Patterns are insights into writing code that give us solutions to commonly occur
 
 ### The Counter Pattern
 
-```javascript
-draw()
-```
+![](assets/counter-pattern-blocks.jpg)
 
 ### Learning Targets:
 
