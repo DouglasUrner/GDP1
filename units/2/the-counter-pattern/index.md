@@ -4,7 +4,7 @@ Patterns are insights into writing code that give us solutions to commonly occur
 
 ### The Counter Pattern
 
-![](assets/counter-pattern-blocks.jpg){width=200}
+![](assets/counter-pattern-blocks.jpg)
 
 The counter pattern works by repeatedly adding (or subtracting) a value to a counter. In our example the counter is **sprite.x**, the value we add is **speed** and the **draw()** loop provides the repetition.
 
