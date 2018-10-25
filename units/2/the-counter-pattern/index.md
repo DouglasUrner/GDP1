@@ -6,6 +6,8 @@ Patterns are insights into writing code that give us solutions to commonly occur
 
 ![](assets/counter-pattern-blocks.jpg)
 
+The counter pattern works by repeatedly adding (or subtracting) a value to a counter. In our example the counter is **sprite.x**, the value we add is **speed** and the **draw()** loop provides the repetition.
+
 ### Learning Targets:
 
 * I can describe the connection between updating a sprite's location properties and the sprite's movement on the screen.
