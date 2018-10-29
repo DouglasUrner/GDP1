@@ -26,13 +26,13 @@ For this project we will use the **Project** facility on the Code.Org web site t
 
 Your goal is to code a scene in which you show off the skills that you have been developing:
 
-* Creating simple shapes and backgrounds - including selecting and assigning colors and controling the stroke.
-* Using the ```randomNumber()``` function. Try to use ```randomNumber()``` in a meaningful way - in a place where using a random number makes sense in the context of the story you are trying to tell - and with sensible values.
-* Organizing your code with variables.
-* Creating sprites and adding an animation (image) to them.
-* Adding text to scenes (including controlling the size and color).
-* Managing the drawing order so that objects are appropriately in front and in back of each other - and so moving objects don't leave a trail.
-* Using the **draw loop** to animate a scene. Typically this would involve moving a sprite using the **counter pattern**.
+* **Creating simple shapes and backgrounds** - including selecting and assigning colors and controling the stroke.
+* **Using the ```randomNumber()``` function.** Try to use ```randomNumber()``` in a meaningful way - in a place where using a random number makes sense in the context of the story you are trying to tell - and with sensible values.
+* **Organizing your code with variables.**
+* **Creating sprites and adding an animation (image) to them.**
+* **Adding text to scenes** (including controlling the size and color).
+* **Managing the drawing order** so that objects are appropriately in front and in back of each other - and so moving objects don't leave a trail.
+* **Using the **draw loop** to animate a scene.** Typically this would involve moving a sprite using the **counter pattern**.
 
 Another important skill for game programmers is being a "self-directed learner" - expanding your knowledge of the tools that you are using and employing that knowledge to create more engaging games.
 
