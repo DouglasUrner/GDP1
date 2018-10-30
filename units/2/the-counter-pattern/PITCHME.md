@@ -129,7 +129,7 @@ In order of precedence:
 
 ## Counter Pattern Project
 
-* Dated sketch in notebook
+* Dated sketch in notebook - with bookmark
 * Project on Code.Org
 * Submission in Canvas
   - Description of the **counter pattern** and how you used it in your project.
