@@ -127,4 +127,10 @@ In order of precedence:
 
 ---
 
-## Project
+## Counter Pattern Project
+
+* Dated sketch in notebook
+* Project on Code.Org
+* Submission in Canvas
+  - Description of the **counter pattern** and how you used it in your project.
+  - Link to your project.
