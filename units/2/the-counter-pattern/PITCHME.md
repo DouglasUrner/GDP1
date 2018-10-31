@@ -163,7 +163,7 @@ Use the Share button to get a link for your Google Doc - next step.
 In your own words, describe the **counter pattern:**
 
 * What does it help you do? *When I need to ____________, I can use the counter pattern.*
-* How does it work? *The counter pattern works by, ____________.
+* How does it work? *The counter pattern works by, ____________.*
 * What did you use the counter pattern to do in your project? *I used the counter pattern to ____________ in my project.*
 
 Add a link to your Game Lab project.
