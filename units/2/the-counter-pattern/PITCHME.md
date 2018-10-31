@@ -135,6 +135,12 @@ Start by planning your project in your notebook.
 
 ---
 
+## Please Pick Up Your Notebook
+
+### ...and a sticky note for a bookmark.
+
+---
+
 ## Counter Pattern Project Submission - Notebook
 
 * Date page
