@@ -129,8 +129,45 @@ In order of precedence:
 
 ## Counter Pattern Project
 
-* Dated sketch in notebook - take a sticky note to bookmark the page
-* Project on Code.Org
-* Submission in Canvas
-  - Description of the **counter pattern** and how you used it in your project.
-  - Link to your project.
+Using what you have learned in Code.Org lessons 3-8, create a Game Lab project that "tells a simple story" - for example: they rowed the boat across the harbor. In the project you should make use of the **counter pattern** to have an object or objects moving in a realistic manner.
+
+Start by planning your project in your notebook.
+
+---
+
+## Counter Pattern Project Submission - Notebook
+
+* Date page
+* Give the page a meaningful heading (e.g. Counter Pattern Project)
+* Develop some ideas for a project
+* Bookmark page with a sticky note on the top
+
++++
+
+## Counter Pattern Project Submission - Game Lab Project:
+
+Build your scene in Game Lab.
+
+Use the Share button to get a link for your Google Doc - next step.
+
++++
+
+## Counter Pattern Project Submission - Google Doc:
+
+In your own words, describe the **counter pattern:**
+
+* What does it help you do? *When I need to ____________, I can use the counter pattern.*
+* How does it work? *The counter pattern works by, ____________.
+* What did you use the counter pattern to do in your project? *I used the counter pattern to ____________ in my project.*
+
+Add a link to your Game Lab project.
+
+Note: the link will be live, so you can keep working on your project.
+
++++
+
+## Counter Pattern Project Submission - On Canvas
+
+* Check that your project hits the points to show off your skills.
+* Submit a PDF of your Google Doc.
+* Make sure that your planning work in your notebook is bookmarked.
