@@ -4,6 +4,8 @@ After the unplugged Booleans activity (Lesson 10) it is time to try our hands at
 
 Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Lesson 11 - Conditionals](https://studio.code.org/s/csd3-2018/stage/11/puzzle/1)) - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
+Before wrapping up, take a look at the [debugging steps in lesson 9](https://studio.code.org/s/csd3-2018/stage/9/puzzle/9). The debugging skills you develop will serve you for the rest of your programming life (maybe even for the rest of your life period).
+
 ### Learning Targets:
 
 * I can predict the output of simple boolean statements
