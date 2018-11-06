@@ -1,20 +1,20 @@
-## Lesson 11: Booleans & Conditionals
+## CSD Lessons 12 & 13: Keyboard Input and Other Forms of Input
 
-After the unplugged Booleans activity (Lesson 10) it is time to try our hands at having our programs make decisions. It "programmer speak" we're talking about the *flow of control* and *conditionals.* We want to be able to change the path through our code based on the conditions that exist. For example, we might want to reverse the direction of a sprite when it reaches the edge of the viewport or when it bumps into something.
+Work through the steps of the lessons  ([Computer Science Discoveries, Unit 3 Lesson 12 - Keyboard Input](https://studio.code.org/s/csd3-2018/stage/12/puzzle/1)) and ([Computer Science Discoveries, Unit 3 Lesson 13 - Other Froms of Input](https://studio.code.org/s/csd3-2018/stage/13/puzzle/1))- Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
-Work through the steps of the lesson  ([Computer Science Discoveries, Unit 3 Lesson 11 - Conditionals](https://studio.code.org/s/csd3-2018/stage/11/puzzle/1)) - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
-
-Before wrapping up, take a look at the [debugging steps in lesson 9](https://studio.code.org/s/csd3-2018/stage/9/puzzle/9). The debugging skills you develop will serve you for the rest of your programming life (maybe even for the rest of your life period).
+As you work on your code, take some time to practice with the debugger (see the [debugging steps in lesson 9](https://studio.code.org/s/csd3-2018/stage/9/puzzle/9)) to look at your Boolean (true/false) variablse. As your conditionals get more complex debugging skill becomes increasingly useful.
 
 ### Learning Targets:
 
-* I can predict the output of simple boolean statements
-* I can use conditionals to make my programs react to changes in variables and sprite properties
+* I can use conditionals to react to keyboard input
+* I can move sprites in response to keyboard input
+* I can use an else statement as the fallback case to an if statement
+* I can differentiate between conditions that are true once per interaction, and those that remain true through the duration of an interaction.
 
 ### Challenges
 
-* Have a sprite change direction if it runs into an edge or another sprite.
+* Detect if a sprite represents an ally, an opponont, or a neutral entity. This will take some research and planning.
 
 ## Submission
 
-Submit a **window** screen capture of the Lesson Extras page for Lesson 11, showing the progress bar at the top and your creation.
+Submit two **window** screen captures of the Lesson Extras page for Lessons 12 and 13, showing the progress bar at the top and your creation.
