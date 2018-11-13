@@ -8,4 +8,24 @@ Then describe what you could create now and what would be a puzzle to implement.
 
 ---
 
+## Challenges
+
+* Bounce when the edge of the sprite hits the edge of the frame.
+* Add a second sprite.
+* Have sprites collide and bounce off of each other?
+
+Make notes on your ideas, **then** try to code them.
+
+---
+
 ## Wrap Up
+
+Review your notes, make sure:
+
+* They are dated and have a title
+* There is a clear "problem statement" - what are we trying to create and how does it behave?
+* You have notes on your ideas for solutions.
+  - How do you detect when the sprite reaches the edge?
+  - How do you change direction?
+  - What changes when you add movement on the Y-axis?
+* Next steps
