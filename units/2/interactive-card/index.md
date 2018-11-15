@@ -23,7 +23,7 @@ Each phase has a deliverable (and a corresponding assignment in the gradebook).
 
 Do each phase in order and submit the corresponding assignment before moving on to the next phase.
 
-### A - Concept Development
+### A - Interactive Card Concept
 
 ### B - Design and Planning
 
