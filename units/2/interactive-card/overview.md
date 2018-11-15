@@ -15,7 +15,7 @@ Each phase has a deliverable (and a corresponding assignment in the gradebook).
 
 * I can use conditionals to react to keyboard input or changes in variables / properties
 * I can sequence commands to draw in the proper order
-* I can apply the iterator pattern to variables or properties in a loop
+* I can apply the **iterator pattern** to variables or properties in a loop
 
 ### The Iterator Pattern
 
@@ -29,4 +29,6 @@ Do each phase in order and submit the corresponding assignment before moving on 
 
 ### C - Development
 
-### D - Test, Review, Iterate
+### D - Evaluate
+
+### E - Iterate
