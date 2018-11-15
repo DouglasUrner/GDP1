@@ -23,10 +23,10 @@ Each phase has a deliverable (and a corresponding assignment in the gradebook).
 
 Do each phase in order and submit the corresponding assignment before moving on to the next phase.
 
-### 1 - Concept Development
+### A - Concept Development
 
-### 2 - Design and Planning
+### B - Design and Planning
 
-### 3 - Development
+### C - Development
 
-### 4 - Test, Review, Iterate
+### D - Test, Review, Iterate
