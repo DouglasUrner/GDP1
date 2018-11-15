@@ -18,6 +18,10 @@ Make notes on your ideas, **then** try to code them.
 
 ---
 
+## Testing
+
+---
+
 ## Wrap Up
 
 Review your notes, make sure:
