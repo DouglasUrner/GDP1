@@ -22,3 +22,4 @@ Once you have an approved plan, you can get started on the next step - [the desi
 
 ## Submission
 
+Make sure your concept page is dated, that it has a descriptive heading, and that it has been signed off. Then bookmark your concept with a sticky note at the top of the page and turn in your notebook.
