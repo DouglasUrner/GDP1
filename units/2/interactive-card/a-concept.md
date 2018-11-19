@@ -2,7 +2,7 @@
 
 ## A: Interactive Card Concept
 
-Start off your work on the [Interactive Card](https://studio.code.org/s/csd3-2018/stage/14/puzzle/1?section_id=1750379) by developing your concept for the card. The project is to create a [interactive card]() for a person that you care about. It could be a thank you, a happy birthday, or aniversery, or perhaps the beginning of a hunt for a present. You could use the card to let the person know why they are important to you.
+Start off your work on the [Interactive Card](https://studio.code.org/s/csd3-2018/stage/14/puzzle/1?section_id=1750379) by developing your concept for the card. The project is to create a [interactive card](https://studio.code.org/s/csd3-2018/stage/14/puzzle/3) (you may also know these as eCards) for a person that you care about. It could be a thank you, a happy birthday, or aniversery, or perhaps the beginning of a hunt for a present. You could use the card to let the person know why they are important to you.
 
 ### Learning Targets:
 
@@ -14,7 +14,7 @@ The concept development and planning go in your notebook. You may find it helpfu
 
 1. Start off with a dated page with a descriptive heading.
 1. Then review the rubric (below).
-1. Brainstorm several ideas for who you could create a card for and what you would like to say to them.
+1. Brainstorm ***several*** ideas for who you could create a card for and what you would like to say to them.
 1. Review your ideas and decide which one you will use for this project (if you find it fun you could always do more than one - it's a great time of year for letting people know that they matter to you). You may want to pick a person who has access to, and uses, the Internet so that they can go back to their card and show *their* friends, but you could always show them on your device.
 1. When you've got a concept show it to me for approval.
 
