@@ -2,7 +2,7 @@
 
 ## B: Interactice Card Plan
 
-After your know who you are creating your card for, and why ([A: Interactive Card Concept](https://canvas.instructure.com/courses/1404736/assignments/10111758)), it is time to start designing the look of the card and the "interactivity" - what will the card look like and how will you deliver your message?
+After your know who you are creating your card for, and why ([A: Interactive Card Concept](https://canvas.instructure.com/courses/1404736/assignments/10111758)), it is time to start picking (or designing) your sprites and planning the "interactivity" - by the end of this step you will know what your card look like and how it will you deliver your message?
 
 ### Learning Targets:
 
@@ -19,6 +19,8 @@ Once you have an approved concept for your card:
 1. Sketch out, or make notes, on the interactive elements of the card.
 1. From your ideas, pull together the plan that your want to develop.
 1. Get your design signed off.
+
+You may use the [U2L10b Planning Guide Google Doc]() as a model, or you may create your own copy (in the menu bar, choose File > Make a copy...) and submit it electronically.
 
 ## Submission
 
