@@ -20,7 +20,7 @@ Once you have an approved concept for your card:
 1. From your ideas, pull together the plan that your want to develop.
 1. Get your design signed off.
 
-You may use the [U2L10b Planning Guide Google Doc]() as a model, or you may create your own copy (in the menu bar, choose File > Make a copy...) and submit it electronically.
+You may use the [U2L10b Planning Guide Google Doc](https://docs.google.com/document/d/1LoeIvbzAt7RjeQJTWd9ZIdEv-qhayf2uUisbEWnosA4/edit?usp=sharing) as a model, or you may create your own copy (in the menu bar, choose File > Make a copy...) and submit it electronically.
 
 ## Submission
 
