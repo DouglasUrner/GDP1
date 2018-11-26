@@ -4,13 +4,15 @@
 
 Start off your work on the [Interactive Card](https://studio.code.org/s/csd3-2018/stage/14/puzzle/1?section_id=1750379) by developing your concept for the card. The project is to create a [interactive card](https://studio.code.org/s/csd3-2018/stage/14/puzzle/3) (you may also know these as eCards) for a person that you care about. It could be a thank you, a happy birthday, or aniversery, or perhaps the beginning of a hunt for a present. You could use the card to let the person know why they are important to you.
 
+You will know that you've got it you you can complete the sentance "I want to tell ***<name-goes-here>*** that they matter to me because ***<reason-goes-here>.***
+
 ### Learning Targets:
 
 * I can develop and document a specific idea for a project.
 
 ## Instructions
 
-The concept development and planning go in your notebook. You may find it helpful to refer to the project guide on the Code.org site.
+The concept development and planning go in your notebook. You may find it helpful to refer to the [project guide on the Code.org site]().
 
 1. Start off with a dated page with a descriptive heading.
 1. Then review the rubric (below).
