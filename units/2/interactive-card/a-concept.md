@@ -4,7 +4,7 @@
 
 Start off your work on the [Interactive Card](https://studio.code.org/s/csd3-2018/stage/14/puzzle/1?section_id=1750379) by developing your concept for the card. The project is to create a [interactive card](https://studio.code.org/s/csd3-2018/stage/14/puzzle/3) (you may also know these as eCards) for a person that you care about. It could be a thank you, a happy birthday, or aniversery, or perhaps the beginning of a hunt for a present. You could use the card to let the person know why they are important to you.
 
-You will know that you've got it you you can complete the sentance "I want to tell ***name-goes-here*** that they matter to me because ***reason-goes-here.***
+You will know that you've got it you you can complete a sentance like this one "I want to tell ***name-goes-here*** that they matter to me because ***spccific-and-detailed-reason-goes-here.***" For example - "I want to thank my grandmother for all of the summers when she made us corn fritters - and for letting me watch so that I could figure out how to make them for myself."
 
 ### Learning Targets:
 
