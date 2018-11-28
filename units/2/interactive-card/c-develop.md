@@ -26,6 +26,8 @@ The steps are:
 
 ## Submission
 
+Once you have finished the first iteration of your card, be sure to click the Submit button on step 8 to finalize your submission.
+
 Create a Google Doc and in it describe any differences between your design and your interactive card. Share your project (use the Share button next to the Code.org logo and include a link to your card in the document.
 
 After clicking on the Submit button, use the Google Doc tab to select and attach your document.
