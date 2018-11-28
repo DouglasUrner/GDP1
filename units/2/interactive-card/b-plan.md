@@ -16,12 +16,13 @@ Once you have an approved concept for your card:
 
 1. Add a new heading in your notes (with a date if it is a new day).
 1. Sketch out some ideas for the design of your card.
+1. In the [Google Doc](https://docs.google.com/document/d/1LoeIvbzAt7RjeQJTWd9ZIdEv-qhayf2uUisbEWnosA4/edit?usp=sharing), make a list of the sprites that you need (at least three).
 1. Sketch out, or make notes, on the interactive elements of the card.
-1. From your ideas, pull together the plan that your want to develop.
+1. In the Google Doc, list the conditions that drive the interactive elements of the card.
 1. Get your design signed off.
 
-You may use the [U2L10b Planning Guide Google Doc](https://docs.google.com/document/d/1LoeIvbzAt7RjeQJTWd9ZIdEv-qhayf2uUisbEWnosA4/edit?usp=sharing) as a model, or you may create your own copy (in the menu bar, choose File > Make a copy...) and submit it electronically.
+Use [U2L10b Planning Guide Google Doc](https://docs.google.com/document/d/1LoeIvbzAt7RjeQJTWd9ZIdEv-qhayf2uUisbEWnosA4/edit?usp=sharing) to collect your lists of sprites and interactions - you'll need to make a copy for yourself. (in the menu bar, choose File > Make a copy...).
 
 ## Submission
 
-Make sure your design page is dated, that it has a descriptive heading, and that it has been signed off. Then bookmark your design with a sticky note at the top of the page and turn in your notebook.
+Make sure your design page is dated, that it has a descriptive heading, bookmark your design with a sticky note at the top of the page and turn in your notebook. In Canvas submit your Planning Guide.
