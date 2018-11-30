@@ -44,4 +44,4 @@ You will be reviewing **at least** two interactive cards. Ideally both of them w
 
 ## Submission
 
-
+Designer: submit a PDF (File > Download as > PDF Document (.pdf)) of **each** review.
