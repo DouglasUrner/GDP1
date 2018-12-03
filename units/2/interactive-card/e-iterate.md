@@ -2,15 +2,17 @@
 
 ## E: Iterate
 
-Introduction/Overview
+The final step of this project is to take your feedback from the previous two steps and use it to revise and improve your interactive card.
 
 ### Learning Targets:
 
-* I can...
+* I can revise work based on feedback from colleagues.
 
 ## Instructions
 
-1. 
+1. Review your feedback from assignment U2L10c - Develop and U2L10d - Evaluate.
+2. Decide on the changes that you need to make to your card.
+3. Implement the changes and resubmit.
 
 ## Submission
 
