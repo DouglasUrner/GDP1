@@ -15,6 +15,11 @@ Before sending your card out into the world it would be a good idea to get some 
 
 Use the [Code Review Template](https://docs.google.com/document/d/1NDfkEjUnvuOulfhg7pOFeiSfc_4hECur1N7IB86OwH8/edit?usp=sharing) to create a checklist for your reviewers.
 
+1. Find at least two people who will review your card - both should be people who are not familiar with your card and one **must** be. Add their names to the Google Doc for our class:
+
+* [7th Block](https://docs.google.com/document/d/1nEgvJF0CLUraTNgXfxBqNQjua5U7rYi6Ef37XvKWJFY/edit?usp=sharing)
+* [8th Block](https://docs.google.com/document/d/1Vz4EKLSO6Xru8OFg-5a5UjUCHl8NigSYBYkUatuJ7yY/edit?usp=sharing)
+
 1. Add a link to your card to the top of the document.
 
 1. Review your card and look for areas where your would like feedback on the "user experience" (aka UX) of your card. Some typical examples are:
