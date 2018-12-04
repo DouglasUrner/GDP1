@@ -8,10 +8,10 @@ Once you have your design sorted out and your sprites and interactions planned, 
 
 * I can set sprites and associate animations with them.
 * I can make sprites respond to user input.
-* I can modify sprite properties in the draw loop.
-* I can create conditional behaviors that depend on sprite properties.
-* I can apply the counter pattern to may card.
-* I can use text to help the user interact with the card.
+* I can modify sprite properties in the draw loop to create animations.
+* I can use variables and/or sprite properties to create conditional behaviors.
+* I can apply the counter pattern to solve coding/design problems.
+* I can create prompts to help the user interact with the card.
 
 ## Instructions
 
