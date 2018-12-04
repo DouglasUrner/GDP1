@@ -17,3 +17,8 @@
 ### Iterate
 
 Based on feedback from teacher and peers revise your card and submit the **final** version of your card.
+
+
+## Pair Programming
+
+All intro-programming is done as pair programming.
