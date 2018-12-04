@@ -15,7 +15,7 @@ Before sending your card out into the world it would be a good idea to get some 
 
 Use the [Code Review Template](https://docs.google.com/document/d/1NDfkEjUnvuOulfhg7pOFeiSfc_4hECur1N7IB86OwH8/edit?usp=sharing) to create a checklist for your reviewers.
 
-1. Find at least two people who will review your card - both should be people who are not familiar with your card and one **must** be. Add their names to the Google Doc for our class:
+1. Find at least two people who will review your card - both should be people who are not familiar with your card and one **must** be. Add their names to your line in the Google Doc for our class:
 
 * [1st Block](https://docs.google.com/document/d/18FOUJhEGyI6N7eta2hDRgT2tCQTeiNj4hfuQXt4vzrY/edit?usp=sharing)
 * [2nd Block](https://docs.google.com/document/d/1xU_mc220EIYGSoIJlbgLaYti9VCp9ut_ZeWG2EdUmyI/edit?usp=sharing)
