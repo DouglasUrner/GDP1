@@ -12,8 +12,8 @@ If you want some practice with the counter patter before diving into the project
 
 ### Learning Targets:
 
-* I can describe the connection between updating a sprite's location properties (**_sprite_.x** and **_sprite_.y**) and the sprite's movement on the screen.
-* I can read and follow the steps of a short program written in pseudocode that manipulates variable values.
+* I can explain how a sprite's location properties (**_sprite_.x** and **_sprite_.y**) can be used to make the sprite appear to move on the screen.
+* I can read and follow the steps of a short program written in **pseudocode** that manipulates variable values.
 * I can describe and use the **counter pattern** in a program that moves a sprite in my scene.
 
 ## Project
