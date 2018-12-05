@@ -12,7 +12,7 @@ If you want some practice with the counter patter before diving into the project
 
 ### Learning Targets:
 
-* I can describe the connection between updating a sprite's location properties and the sprite's movement on the screen.
+* I can describe the connection between updating a sprite's location properties (**_sprite_.x** and **_sprite_.y**) and the sprite's movement on the screen.
 * I can read and follow the steps of a short program written in pseudocode that manipulates variable values.
 * I can describe and use the **counter pattern** in a program that moves a sprite in my scene.
 
@@ -32,7 +32,7 @@ Your goal is to code a scene in which you show off the skills that you have been
 
 * **Creating simple shapes and backgrounds** - including selecting and assigning colors and controling the stroke.
 * **Using the ```randomNumber()``` function.** Try to use ```randomNumber()``` in a meaningful way - in a place where using a random number makes sense in the context of the story you are trying to tell - and with sensible values.
-* **Organizing your code with variables.**
+* **Using variables to make your easier to read and maintain.**
 * **Creating sprites and adding an animation (image) to them.**
 * **Adding text to scenes** (including controlling the size and color).
 * **Managing the drawing order** so that objects are appropriately in front and in back of each other - and so moving objects don't leave a trail.
