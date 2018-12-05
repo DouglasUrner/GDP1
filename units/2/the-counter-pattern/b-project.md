@@ -40,16 +40,14 @@ Your goal is to code a scene in which you show off the skills that you have been
 
 Another important skill for game programmers is being a "self-directed learner" - expanding your knowledge of the tools that you are using and employing that knowledge to create more engaging games.
 
-## Submissions
+## Submission
 
 Finalize your project for submission by clicking on the **Share** button, then copy the resulting URL to include in your submission.
-
-Please make sure that your name is on the **Variables Unplugged** acticvity guide and turn it in.
 
 Submit a PDF document in which you:
 
 * Explain the **Counter Pattern** in your own words:
-  - What problem does the counter pattern solve?
-  - How does the counter pattern work?
+  - What problem does the counter pattern solve? (When would you use the counter pattern?)
+  - How do you implement the counter pattern – if you were telling someone to use the counter pattern, what would they need to do to add it to their code?
   - Where can we see the counter pattern in your project?
-* Include a link to your project on Game Lab.
+* Include a link to your project on Game Lab. Be sure that the link is "live" - it should look like a link.
