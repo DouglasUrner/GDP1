@@ -20,7 +20,6 @@ Use the [Code Review Template](https://docs.google.com/document/d/1NDfkEjUnvuOul
 * [1st Block](https://docs.google.com/document/d/18FOUJhEGyI6N7eta2hDRgT2tCQTeiNj4hfuQXt4vzrY/edit?usp=sharing)
 * [2nd Block](https://docs.google.com/document/d/1xU_mc220EIYGSoIJlbgLaYti9VCp9ut_ZeWG2EdUmyI/edit?usp=sharing)
 * [4th Block](https://docs.google.com/document/d/1D5c0YPS_q9yC68G29fb4kcSk9csL92HXz-4pKqVjK5M/edit?usp=sharing)
-
 * [7th Block](https://docs.google.com/document/d/1nEgvJF0CLUraTNgXfxBqNQjua5U7rYi6Ef37XvKWJFY/edit?usp=sharing)
 * [8th Block](https://docs.google.com/document/d/1Vz4EKLSO6Xru8OFg-5a5UjUCHl8NigSYBYkUatuJ7yY/edit?usp=sharing)
 
@@ -35,7 +34,11 @@ Use the [Code Review Template](https://docs.google.com/document/d/1NDfkEjUnvuOul
    
    You should come up with at least 6 areas for your reviewers to look at.
    
-1. Share your the document with at least two reviewers - one of whom must be from a different row (you want "fresh eyes" looking at your project).
+1. Make a copy of your template for each reviewer.
+
+1. Share the document with each of your reviewers - one of whom must be from a different row (you want "fresh eyes" looking at your project).
+
+1. In your master copy of the template add the names of all of your reviewers along with links to the files that you shared with them.
    
 ### As Reviewer
 
@@ -43,13 +46,13 @@ You will be reviewing **at least** two interactive cards. Ideally both of them w
 
 1. The designer will share a link to their Code Review document with you.
 
-1. Make a copy of the document and add your name to the top.
+1. Make sure your name is entered correctly.
 
-1. Click on the link in the document and test out the card and respond to the designer's questions.
+1. Click on the link to the card and test the card and respond to the designer's questions.
 
 1. Click on the show code button and using the second half of the Code Review document review and give feedback on the code of the interactive card.
 
-1. Return the document to the designer. 
+1. Let the designer know that you are done. 
 
 ## Submission
 
