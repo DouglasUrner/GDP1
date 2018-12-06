@@ -56,4 +56,4 @@ You will be reviewing **at least** two interactive cards. Ideally both of them w
 
 ## Submission
 
-Designer: submit a PDF (File > Download as > PDF Document (.pdf)) of **each** review. You should be uploading at least two documents, one from each reviewer.
+Designer: submit your master of the template with the links to your reviews.
