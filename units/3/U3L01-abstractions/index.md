@@ -3,7 +3,7 @@
 
 ## U3L1: Abstractions 1 - Velocity & Collision Detection
 
-In this lesson we are going to start our investigation of one of the "big ideas" in computer science - **abstraction.**
+In this lesson we are going to start our investigation of one of the "big ideas" in computer science - **abstraction.** We'll be looking at how abstractions can make our code simpler and easier to read.
 
 ### Learning Targets:
 
@@ -14,7 +14,7 @@ In this lesson we are going to start our investigation of one of the "big ideas"
 
 ### Deliverable
 
-For this lesson you will submit a copy of the [Google Doc Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with links to your work on Code.org.
+For this lesson you will submit a copy of the [Google Doc Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with links to your version of the **Side Scroller** game.
 
 ## Instructions
 
