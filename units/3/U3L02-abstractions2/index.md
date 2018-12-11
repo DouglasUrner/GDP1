@@ -20,7 +20,7 @@ For this lesson you will submit a copy of the [U3L02 Submission Template](https:
 
 1. On Code.org work through [Lesson 17: Complex Sprite Movement](https://studio.code.org/s/csd3-2018/stage/17/puzzle/1).
 1. Then, go on to [Lesson 18: Collisions](https://studio.code.org/s/csd3-2018/stage/18/puzzle/1).
-1. Once you have completed the [Flyer Game](https://studio.code.org/s/csd3-2018/stage/15/puzzle/8) - including at least one improvement from [Step 13 of Lesson 18](https://studio.code.org/s/csd3-2018/stage/18/puzzle/13), share, and add a link to the template.
+1. Once you have completed the [Flyer Game](https://studio.code.org/s/csd3-2018/stage/18/puzzle/8) - including at least one improvement from [Step 13 of Lesson 18](https://studio.code.org/s/csd3-2018/stage/18/puzzle/13), share, and add a link to the template.
 1. Submit your copy of the template.
 
 ## Submission
