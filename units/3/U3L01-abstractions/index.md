@@ -1,7 +1,7 @@
 
 [//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/3/U3L01-abstractions/" width="100%" height="666px"></iframe></p>)
 
-## U3L1: Abstractions - Velocity & Collision Detection
+## U3L1: Abstractions 1 - Velocity & Collision Detection
 
 In this lesson we are going to start our investigation of one of the "big ideas" in computer science - **abstraction.**
 
