@@ -11,7 +11,8 @@ Functions help you manage complex code by abstracting operations into **function
 
 ### Deliverable
 
-For this lesson you will submit a copy of the [U3L03 Submission Template](https://docs.google.com/document/d/1XTNK5uS6JM7RbFnPWlXCvYuKNisIWtH2Lfzc9q-WiiY/edit?usp=sharing) with a shared link to your version of the **Collector Game**.
+For this lesson you will submit a copy of the [U3L03 Submission Template](https://docs.google.com/document/d/1-0IvE0nlNj4Pv73nHS21bWDkRmPsuB9TkNhq_5LTzNA/edit?usp=sharing)
+with a shared link to your version of the **Collector Game**.
 
 ## Instructions
 
