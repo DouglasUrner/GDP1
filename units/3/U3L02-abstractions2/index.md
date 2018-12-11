@@ -3,7 +3,7 @@
 
 ## U3L1: Abstractions 2 - Complex Sprite Movement & Collisions
 
-In this lesson we are going to start our investigation of one of the "big ideas" in computer science - **abstraction.** We'll be looking at how abstractions can make our code simpler and easier to read.
+Using the **velocity abstraction** and the **counter pattern** we'll simulate accelerations and gravity (which anyone who has taken physics will tell you is just an acceleration...).
 
 ### Learning Targets:
 
@@ -14,14 +14,14 @@ In this lesson we are going to start our investigation of one of the "big ideas"
 
 ### Deliverable
 
-For this lesson you will submit a copy of the [Google Doc Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with links to your version of the **Side Scroller** game.
+For this lesson you will submit a copy of the [U3L02 Submission Template](https://docs.google.com/document/d/1XTNK5uS6JM7RbFnPWlXCvYuKNisIWtH2Lfzc9q-WiiY/edit?usp=sharing) with a shared link to your version of the **Flyer Game**.
 
 ## Instructions
 
-1. On Code.org work through [Lesson 15: Velocity](https://studio.code.org/s/csd3-2018/stage/15/puzzle/1).
-1. Then, go on to [Lesson 16: Collision Detection](https://studio.code.org/s/csd3-2018/stage/16/puzzle/1).
-1. Once you have completed the [Side Scroller](https://studio.code.org/s/csd3-2018/stage/15/puzzle/11) - including the score challenge from Step 10 of Lesson 16](https://studio.code.org/s/csd3-2018/stage/16/puzzle/10), share, and add a link to the template.
-1. Submite your copy of the template.
+1. On Code.org work through [Lesson 17: Complex Sprite Movement](https://studio.code.org/s/csd3-2018/stage/17/puzzle/1).
+1. Then, go on to [Lesson 18: Collisions](https://studio.code.org/s/csd3-2018/stage/18/puzzle/1).
+1. Once you have completed the [Flyer Game](https://studio.code.org/s/csd3-2018/stage/15/puzzle/8) - including at least one improvement from Step 13 of Lesson 18](https://studio.code.org/s/csd3-2018/stage/18/puzzle/13), share, and add a link to the template.
+1. Submit your copy of the template.
 
 ## Submission
 
