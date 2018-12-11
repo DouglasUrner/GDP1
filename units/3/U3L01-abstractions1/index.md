@@ -20,8 +20,8 @@ For this lesson you will submit a copy of the [Google Doc Template](https://docs
 
 1. On Code.org work through [Lesson 15: Velocity](https://studio.code.org/s/csd3-2018/stage/15/puzzle/1).
 1. Then, go on to [Lesson 16: Collision Detection](https://studio.code.org/s/csd3-2018/stage/16/puzzle/1).
-1. Once you have completed the [Side Scroller](https://studio.code.org/s/csd3-2018/stage/15/puzzle/11) - including the score challenge from Step 10 of Lesson 16](https://studio.code.org/s/csd3-2018/stage/16/puzzle/10), share, and add a link to the template.
-1. Submite your copy of the template.
+1. Once you have completed the [Side Scroller](https://studio.code.org/s/csd3-2018/stage/15/puzzle/11) - including the score challenge from [Step 10 of Lesson 16](https://studio.code.org/s/csd3-2018/stage/16/puzzle/10), share, and add a link to the template.
+1. Submit your copy of the template.
 
 ## Submission
 
