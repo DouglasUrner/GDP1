@@ -14,13 +14,13 @@ In this lesson we are going to start our investigation of one of the "big ideas"
 
 ### Deliverable
 
-For this lesson you will submit a copy of the [Google Doc Template]() with links to your work on Code.org.
+For this lesson you will submit a copy of the [Google Doc Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with links to your work on Code.org.
 
 ## Instructions
 
-1. On Code.org work through [Lesson 15: Velocity]().
-1. Then, go on to [Lesson 16: Collision Detection]().
-1. Once you have completed the [Side Scroller]() - including the score challenge from Step 10 of Lesson 16](), share, and add a link to the template.
+1. On Code.org work through [Lesson 15: Velocity](https://studio.code.org/s/csd3-2018/stage/15/puzzle/1).
+1. Then, go on to [Lesson 16: Collision Detection](https://studio.code.org/s/csd3-2018/stage/16/puzzle/1).
+1. Once you have completed the [Side Scroller](https://studio.code.org/s/csd3-2018/stage/15/puzzle/11) - including the score challenge from Step 10 of Lesson 16](https://studio.code.org/s/csd3-2018/stage/16/puzzle/10), share, and add a link to the template.
 1. Submite your copy of the template.
 
 ## Submission
