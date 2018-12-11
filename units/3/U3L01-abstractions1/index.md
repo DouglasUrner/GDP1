@@ -14,7 +14,7 @@ In this lesson we are going to start our investigation of one of the "big ideas"
 
 ### Deliverable
 
-For this lesson you will submit a copy of the [Google Doc Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with links to your version of the **Side Scroller** game.
+For this lesson you will submit a copy of the [U3L01 Submission Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with links to your version of the **Side Scroller** game.
 
 ## Instructions
 
