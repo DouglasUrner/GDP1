@@ -1,7 +1,7 @@
 
-[//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/3/U3L02-abstractions2/" width="100%" height="666px"></iframe></p>)
+[//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/3/U3L02-flyer/" width="100%" height="666px"></iframe></p>)
 
-## U3L2: Abstractions 2 - Complex Sprite Movement & Collisions
+## U3L2: Flyer Game
 
 Using the **velocity abstraction** and the **counter pattern** we'll simulate accelerations and gravity (which anyone who has taken physics will tell you is just an acceleration...).
 
