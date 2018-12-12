@@ -7,10 +7,10 @@ Using the **velocity abstraction** and the **counter pattern** we'll simulate ac
 
 ### Learning Targets:
 
-* I can explain what the term **abstraction** means to computer scientists and why it is a "big idea."
-* I can give examples of abstraction in everyday life.
-* I can explain how **velocity** and **collision detection** are examples of abstraction in game programming.
-* I can use **abstraction** and **collision detection** to make my code simpler and easier to understand.
+* I can use the sprite velocity properties with the counter pattern to create different types of sprite movement.
+* I can use the `displace`, `collide`, `bounce`, and `bounceOff` blocks to produce sprite interactions.
+* I can explain how simple programming constructs can be combined to create complex behaviors.
+* I can give examples of how new abstractions can be built top of existing abstractions.
 
 ### Deliverable
 
