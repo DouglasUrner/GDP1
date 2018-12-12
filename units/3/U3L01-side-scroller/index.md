@@ -7,14 +7,14 @@ In this lesson we are going to start our investigation of one of the "big ideas"
 
 ### Learning Targets:
 
-* I can explain what the term **abstraction** means to computer scientists and why it is a "big idea."
-* I can give examples of abstraction in everyday life.
-* I can explain how **velocity** and **collision detection** are examples of abstraction in game programming.
-* I can use **abstraction** and **collision detection** to make my code simpler and easier to understand.
+* I can use the **sprite.velocityX**, **sprite.velocityY**, and the **sprite.rotationSpeed** properties to create and change sprite movements
+* I can describe the advantages of simplifying code by using "higher level"  blocks (**abstractions**).
+* I can use the **sprite.isTouching()** block to determine when two sprites are touching.
+* I can explain how **abstractions** help to manage the complexity of code.
 
 ### Deliverable
 
-For this lesson you will submit a copy of the [U3L01 Submission Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with links to your version of the **Side Scroller** game.
+For this lesson you will create a **Side Scroller** game and submit a copy of the [U3L01 Submission Template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing) with a link to your game.
 
 ## Instructions
 
