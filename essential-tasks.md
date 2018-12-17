@@ -1,4 +1,4 @@
-**Driving Question:** How do designers develop the concept for an interactive experience and create testable digital prototypes to refine the design?
+**Driving Question:** How do designers develop the concept for an *interactive experience* and create testable digital prototypes to refine the design?
 
 *Games* are one type of *interactive experience*, but the principles and skills that we are learning are not exclusive to games and so we do not limit ourselves to games.
 
