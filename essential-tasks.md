@@ -1,4 +1,4 @@
-**Driving Question:** How do you develop the concept for a "digital" game and create a playable prototype based on your concept that will help you refine your game?
+**Driving Question:** How do designers develop the concept for an interactive experience and create testable digital prototypes to refine the design?
 
 **Essential Tasks:**
 
