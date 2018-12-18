@@ -2,6 +2,14 @@
 
 *Games* are one type of *interactive experience*, but the principles and skills that we are learning are not exclusive to games and so we do not limit ourselves to games.
 
+**Projects:**
+
+1. **Interactive Card**
+1. Side Scroller game
+1. Flyer game
+1. Collector game
+1. **Collaborative Game Jam**
+
 **Essential Tasks:**
 
 By the end of the semester you should be able to:
