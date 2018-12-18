@@ -4,9 +4,19 @@
 
 **Essential Tasks:**
 
+By the end of the semester you should be able to:
+
 * Develop a concept for an interactive experience.
 * Identify the core mechanic (mode of interaction) used in your concept.
 * Create a digitial prototype to test your core mechanic.
 * Document your design and the research and testing related to it.
-* Independently learn a new skill and share it with the class.
+* Collaborate with a diverse team on a project – both in person and electronically.
 * Describe possible career pathways in game (interactive experience) design and programming
+
+**Associated Skills:**
+
+In completing the essential tasks you will demonstrate these skills:
+
+* Creating and managing shared documents.
+* Tracking due dates and managing expectations.
+* Working with online services and accounts.
