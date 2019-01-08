@@ -23,4 +23,6 @@ The game ***must*** be based in local history, myth, or lore.
 ### 21st Century Skills
 
 * __Goal Setting__  
-Identify and pursure a personal (self-selected) goal for the project.
+Identify and pursure a personal (self-selected) goal for the project. Possibilities:
+  - Tasks taken on for the project.
+  - Grade improvement
