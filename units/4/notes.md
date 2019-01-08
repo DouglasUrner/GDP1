@@ -16,6 +16,10 @@ The game ***must*** be based in local history, myth, or lore.
 
 ### Notebook
 
+* __Document The Development Of An Idea__  
+* __Track New Knowledge & Vocabulary While Learning A New Concept__  
+* __Information Necessary To Manage A Project__  
+
 ### Content Standards
 
 ### Industry Standards
