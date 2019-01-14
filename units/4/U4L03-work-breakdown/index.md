@@ -11,7 +11,7 @@ Your game prototype should include the following elements:
 * Detection of win and/or lose states.
 * A means of restarting the shared game so that player can play again (this is **not** the Reset button in Game Lab, that is to visible outside of the IDE).
 
-Your objective in this assignment is to plan how your team will divide up the work of building your prototype and to set up a Google Doc to help you coordinate and have access to the work of your team mates.
+Your objective in this assignment is to plan how your team will divide up the work of building your prototype and to set up a Google Doc to help you coordinate and have access to the work of your team mates. **Each member of the team should be contributing a section, or sections, of code that they wrote.**
 
 ### As A Team
 
