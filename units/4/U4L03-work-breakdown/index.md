@@ -15,9 +15,10 @@ Your objective in this assignment is to plan how your team will divide up the wo
 
 ### As A Team
 
-1. Have one member of your team make a copy a of the [Work Breakdown Template](https://docs.google.com/document/d/1iVBv_bE_cPIBlDf-J-iPFY7ZjVvKLgJgf_ss3V6Jaoo/edit?usp=sharing). At the top of the document, in the Live Link box, insert an "Anyone at South Kitsap School District with the link can comment" link to the document. This will allow me to see and comment on the live version of your team's work breakdown.
-1. Share the template with each member of the team.
-1. Plan the scope of the project and describe what the team will be creating.
+1. Have one member of your team make a copy a of the [Work Breakdown Template](https://docs.google.com/document/d/1iVBv_bE_cPIBlDf-J-iPFY7ZjVvKLgJgf_ss3V6Jaoo/edit?usp=sharing). 
+1. Have one member create a new Game Lab project and name it using your game's name - this will be the "released" project where you merge working code contributions from your team members.
+1. Add a brief description of your prototype in the **Game Description** box.
+1. Finally, in the **Live Link** box, insert an *Anyone at South Kitsap School District with the link can comment* link to the document. This will allow me to see and comment on the live version of your team's work breakdown.
 
 ### Individually
 
