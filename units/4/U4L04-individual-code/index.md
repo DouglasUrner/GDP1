@@ -5,6 +5,16 @@
 
 ### As A Team
 
+If you have not already done so, decide on who will be responsible for each of the units of code that you identified when you did the project breakdown. Make sure this is reflected in your group's work breakdown document.
+
 ### Individually
+
+Your code should be a function that can be called from the draw loop or from one of the major draw loop functions. Begin by planning it out:
+
+* What does it do?
+* What functions (abstractions) do you need?
+* How can you test it to confirm that it works?
+
+Then, write and test your code.
 
 ## Submission
