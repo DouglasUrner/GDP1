@@ -3,6 +3,8 @@
 
 ## FP 1: Brainstorm
 
+Developing ideas for a game.
+
 ### As A Team
 
 ### Individually
