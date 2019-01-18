@@ -24,7 +24,7 @@ Each of the titles is a link to a minimal example in Game Lab, right click on th
 * **[Game Control / State Machine Pattern](https://studio.code.org/projects/gamelab/VwtePC2g_haoBfb7Z2D91MBKNE9xDeseLD_nDwvpCIA)**  
 Create a state machine in the  ``draw()`` function to manage flow of the game. Call a function that handles each part of the game. Coding responsibility can be divided up by assigning the "top level" functions to members of the team.
 
-* **[Scoring]()**  
+* **[Scoring](https://studio.code.org/projects/gamelab/9HMW0-xOHzGla5kDf1paIDAS008QL-_tW36Xb9SS0sc)**  
 There are two logical "hunks" of the scoring process:
 
   * Awarding or subtracting points, and
