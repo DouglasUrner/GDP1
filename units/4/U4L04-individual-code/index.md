@@ -27,8 +27,8 @@ Create a state machine in the  ``draw()`` function to manage flow of the game. C
 * **[Scoring]()**  
 There are two logical "hunks" of the scoring process:
 
-1. Awarding or subtracting points, and
-1. Displaying the score
+  1. Awarding or subtracting points, and
+  1. Displaying the score
 
 Each hunk should be a function.
 
