@@ -33,6 +33,9 @@ There are two logical "hunks" of the scoring process:
   Each hunk should be a function.
 
   In Game Lab displaying text can be tricky because the text has to be displayed after any overlapping sprites or shapes are drawn. Otherwise the score will be hidden behind them. Be sure to call your function to display the score after you call ``drawSprites().``
+  
+* **[Abstraction: Using Functions To Hide Complexity]()**  
+When computer scientists use the term *abstraction* they are often referring to the practice of creating a function to hide details that make the code harder to understand.
 
 ## Submission
 
