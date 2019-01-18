@@ -21,8 +21,18 @@ Then, write and test your code.
 
 Each of the titles is a link to a minimal example in Game Lab, right click on the tip title to open the link in a new tab.
 
-* **[Game Control / State Machine Pattern(https://studio.code.org/projects/gamelab/VwtePC2g_haoBfb7Z2D91MBKNE9xDeseLD_nDwvpCIA)** 
-Create
+* **[Game Control / State Machine Pattern](https://studio.code.org/projects/gamelab/VwtePC2g_haoBfb7Z2D91MBKNE9xDeseLD_nDwvpCIA)**  
+Create a state machine in the  ``draw()`` function to manage flow of the game. Call a function that handles each part of the game. Coding responsibility can be divided up by assigning the "top level" functions to members of the team.
+
+* **[Scoring]()**  
+There are two logical "hunks" of the scoring process:
+
+1. Awarding or subtracting points, and
+1. Displaying the score
+
+Each hunk should be a function.
+
+In Game Lab displaying text can be tricky because the text has to be displayed after any overlapping sprites or shapes are drawn. Otherwise the score will be hidden behind them. Be sure to call your function to display the score after you call ``drawSprites().``
 
 ## Submission
 
