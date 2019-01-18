@@ -27,12 +27,12 @@ Create a state machine in the  ``draw()`` function to manage flow of the game. C
 * **[Scoring]()**  
 There are two logical "hunks" of the scoring process:
 
-  1. Awarding or subtracting points, and
-  1. Displaying the score
+  * Awarding or subtracting points, and
+  * Displaying the score
 
-Each hunk should be a function.
+  Each hunk should be a function.
 
-In Game Lab displaying text can be tricky because the text has to be displayed after any overlapping sprites or shapes are drawn. Otherwise the score will be hidden behind them. Be sure to call your function to display the score after you call ``drawSprites().``
+  In Game Lab displaying text can be tricky because the text has to be displayed after any overlapping sprites or shapes are drawn. Otherwise the score will be hidden behind them. Be sure to call your function to display the score after you call ``drawSprites().``
 
 ## Submission
 
