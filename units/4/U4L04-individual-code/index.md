@@ -17,7 +17,12 @@ Your code should be a function that can be called from the draw loop or from one
 
 Then, write and test your code.
 
-You will need to create a function (or functions) to implement your portion of the code. You may find the ***state machine*** pattern useful. You can see the class [game control example on the Code.Org site](https://studio.code.org/projects/gamelab/VwtePC2g_haoBfb7Z2D91MBKNE9xDeseLD_nDwvpCIA).
+#### Tips & Suggestions
+
+Each of the titles is a link to a minimal example in Game Lab, right click on the tip title to open the link in a new tab.
+
+* **[Game Control / State Machine Pattern(https://studio.code.org/projects/gamelab/VwtePC2g_haoBfb7Z2D91MBKNE9xDeseLD_nDwvpCIA)** 
+Create
 
 ## Submission
 
