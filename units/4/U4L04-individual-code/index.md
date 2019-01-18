@@ -9,7 +9,7 @@ If you have not already done so, decide on who will be responsible for each of t
 
 ### Individually
 
-Your code should be a function that can be called from the draw loop or from one of the major draw loop functions. Begin by planning it out:
+Your code should be a function that can be called from the draw loop or from one of the major draw loop functions. Begin by planning it out in your notes:
 
 * What does it do?
 * What functions (abstractions) do you need?
@@ -17,4 +17,8 @@ Your code should be a function that can be called from the draw loop or from one
 
 Then, write and test your code.
 
+You will need to create a function (or functions) to implement your portion of the code. You may find the ***state machine*** pattern useful. You can see the class [game control example on the Code.Org site](https://studio.code.org/projects/gamelab/VwtePC2g_haoBfb7Z2D91MBKNE9xDeseLD_nDwvpCIA).
+
 ## Submission
+
+Get a link to your project by clicking on the Share button in Game Lab and then submit the link.
