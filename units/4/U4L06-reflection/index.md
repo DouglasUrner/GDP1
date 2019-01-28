@@ -8,7 +8,7 @@ The final step in the project is to reflect on how it went.
 
 Make a copy (**File > Make a copy...**) of the [Final Project Reflection Template](https://docs.google.com/document/d/1ElpMy5qJjl8QXDfFw3RkvGSh4VVGuu7Nc2flaN9rXzI/edit?usp=sharing) and respond to the reflection questions. Then submit the your document.
 
-Play some of the other [final project games]() - click on the link to see the list.
+Play some of the other [final project games](https://docs.google.com/document/d/1sczTNA8fKhIPIc0AM7OU8opL-_u5qkUvo07pvg04AmM/edit?usp=sharing) - click on the link to see the list.
 
 ## Submission
 
