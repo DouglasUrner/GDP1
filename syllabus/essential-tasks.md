@@ -8,7 +8,7 @@
 1. Side Scroller game
 1. Flyer game
 1. Collector game
-1. Practice team project  
+1. **Practice team project**  
 Develop skills to work on a team development project.
 1. **Collaborative Game Jam**
 
