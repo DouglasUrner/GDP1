@@ -30,3 +30,8 @@ In completing the essential tasks you will demonstrate these skills:
 * Creating and managing shared documents.
 * Tracking due dates and managing expectations.
 * Working with online services and accounts.
+* Reading:
+  - Instructions to & tutorials to learn how to do something.
+  - Documentation to understand processes & how something is *supposed* to work.
+  - Code to understand how something *actually* works.
+  - Code to find potential problems & actual bugs.
