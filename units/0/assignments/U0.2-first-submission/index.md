@@ -10,7 +10,7 @@ The purpose of this assignment is to help you become familiar with Canvas and ho
 
 * I can find an assignment's due date and submission window on Canvas.
 * I can view an assignment's rubric on Canvas.
-* I can view feedback on my submissions on Canvas.
+* I can view feedback on my submissions on Canvas - [Slides: Viewing Assignment Feedback In Canvas](https://docs.google.com/presentation/d/1y9jbWEt1y7CTD44YNtyjzBZtnxzYQLMYCQABQy6PNUY/edit?usp=sharing).
 * I can make an editable copy of a Google Docs document.
 * I can submit an assignment in Canvas.
 
