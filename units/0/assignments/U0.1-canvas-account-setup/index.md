@@ -14,6 +14,8 @@ By this point you alread have a Canvas account and have joined the class. Your j
 
 ## Instructions
 
+At this point you have created a Canvas account and joined this class (or else, how did you get here?). Next, check you settings in Canvas, there are a number of things to check and at least one change that you will need to make. So:
+
 1. Follow along in the [slides](https://docs.google.com/presentation/d/1srCVoGKstDW_kRv1qNhjf4hswGAYkCYhTEjZ1tnXzSU/edit?usp=sharing) to update your Canvas profile and create a bookmark in Chrome for our class.
 1. Make a copy of the **Canvas 101 Template**:
    - Right-click on the **[Canvas 101 Template](https://docs.google.com/document/d/1caYrcNryLzI96mPzDU2imeCsXr9jOfTgvzzbSuyXGVQ/edit?usp=sharing)** link and choose **Open link in new tab**.
