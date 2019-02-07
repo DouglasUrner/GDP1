@@ -1,10 +1,13 @@
-[//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.3-game-concept-poster/" width="100%" height="666px"></iframe></p>)
+[//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.3-instant-game-design/" width="100%" height="666px"></iframe></p>)
 
-## Game Concept Poster
+[slides]: 
+[handout]: 
+
+## (Almost) Instant Game Design
 
 
 
-[Slides]() - right-click and choose **Open link in a new tab** to view.
+[Slides][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
