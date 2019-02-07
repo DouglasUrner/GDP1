@@ -11,7 +11,9 @@ Today we are going to create a quick prototype of a ***race to the finish*** gam
 
 ### Learning Targets:
 
-* 
+* I can explain the way the term ***pattern*** is used by game designers and computer scientists.
+* I can describe the "race to the finish" pattern.
+* I can explain why designers of electronic games often prototype them on paper.
 
 ## Instructions
 
