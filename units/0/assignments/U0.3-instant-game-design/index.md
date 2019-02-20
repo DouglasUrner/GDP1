@@ -29,7 +29,7 @@ Today we are going to create a quick prototype of a ***race to the finish*** gam
 
 The full instructions are on [the handout](https://docs.google.com/document/d/1ZRybnTi7oD4AgrY_1ax-MAQXkqkocGvlqawwnpknLVM/edit?usp=sharing).
 
-Use a full blank page in your notebook for the design. Before you turn your notebook in, bookmark your design with a sticky note at the top if the page.
+**Use a full blank page in your notebook for the design. Before you turn your notebook in, bookmark your design with a sticky note at the top if the page.**
 
 ### Playtest
 
@@ -46,5 +46,8 @@ After testing your game:
 The work that is assessed for this assignment is in your notebook - be sure that you have:
 1. Dated your page(s) for today's work.
 1. Given your page a heading (perhaps the name of your game or "Instant Game Design."
-1. Responded to the reflection question.
-1. Bookmarked the first page of today's work with a sticky note on the top of the page.
+1. Responded to both reflection questions.
+1. Bookmarked the first page of you instant game design with a sticky note on the **top** of the page:
+   - 2nd Block: please use a **blue** sticky note.
+   - 7th Block: please use a **yellow** sticky note.
+   
