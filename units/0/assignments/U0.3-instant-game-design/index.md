@@ -33,7 +33,14 @@ The full instructions are on [the handout](https://docs.google.com/document/d/1Z
 
 ### Playtest
 
-After creating you game test your game with a partner (ideally) or two. Divide up the time so that each designer's game is tested. As you test make notes about your rules and how the game works.
+After creating you game test your game with a partner (ideally) or two. Divide up the time so that each designer's game is tested. As you test **make notes** about your rules and how the game works. In your notes identify the playtest notes with a new heading.
+
+Things to note:
+* Who tested your game.
+* Places where you needed to clarify or revise the rules.
+* Changes that you made to the game.
+* Ideas for cards or special squares (if you use either of them).
+* Ideas for how to make the game more engaging for the players.
 
 ### Reflection Questions - In your notebook
 
@@ -46,6 +53,8 @@ After testing your game:
 The work that is assessed for this assignment is in your notebook - be sure that you have:
 1. Dated your page(s) for today's work.
 1. Given your page a heading (perhaps the name of your game or "Instant Game Design."
+1. Have the game board in your notes.
+1. Have your playtest notes clearly identified.
 1. Responded to both reflection questions.
 1. Bookmarked the first page of you instant game design with a sticky note on the **top** of the page:
    - 2nd Block: please use a **blue** sticky note.
