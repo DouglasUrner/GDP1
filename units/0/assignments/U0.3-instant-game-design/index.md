@@ -35,9 +35,11 @@ Use a full blank page in your notebook for the design. Before you turn your note
 
 After creating you game test your game with a partner (ideally) or two. Divide up the time so that each designer's game is tested. As you test make notes about your rules and how the game works.
 
-### Reflection Question - In your notebook
+### Reflection Questions - In your notebook
 
-After testing your game, what made your game **fun** or what could you change to make the game more fun?
+After testing your game:
+* What made your game **fun** (or if it really, truely, wasn't any fun at all - what was missing)? And, 
+* What could you change to make the game more fun?
 
 ## Submission
 
