@@ -1,9 +1,9 @@
-[//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.4-elements-of-a-game/" width="100%" height="666px"></iframe></p>)
+[//]: # (<p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.4-elements-of-games/" width="100%" height="666px"></iframe></p>)
 
 [slides]: https://docs.google.com/presentation/d/1ERxw06mcIuoDibcj6FqIWg8tJypgAelR2NswMEg0JIo/edit?usp=sharing
 [handout]: https://docs.google.com/document/d/1ZRybnTi7oD4AgrY_1ax-MAQXkqkocGvlqawwnpknLVM/edit?usp=sharing
 
-## (Almost) Instant Game Design
+## Elements of Games
 
 Today we are going to create a quick prototype of a ***race to the finish*** game in four easy steps:
 
