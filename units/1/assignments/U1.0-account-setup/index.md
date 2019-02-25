@@ -1,3 +1,25 @@
+[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/1/assignments/U1.0-account-setup/" width="100%" height="666px"></iframe></p> )
+
+## Assignment Name
+
+[slides]: 
+[template]: 
+
+
+
+[Slides: SLIDE DECK TITLE][slides] - right-click and choose **Open link in a new tab** to view.
+
+### Learning Targets:
+
+* I can ...
+
+## Instructions
+
+
+
+## Submission
+
+A PDF of your document through Canvas **do not** submit by sharing the document.
 # Introduction To Game Lab
 
 Start by signing up for an account on Code.Org by clicking on this link [https://studio.code.org/users/sign_up](https://studio.code.org/users/sign_up) please be sure to use the red **Sign in with Google Account** button the the right hand side, **do not fill in the form on the left side.** After setting up your account, join our section - you can enter the code at the bottom of the sign-up page or by going to [https://code.org/join](https://code.org/join).
@@ -13,21 +35,4 @@ B-Bays:
 
 **Please double check that you account shows your first and last names as it appear in Canvas or Skyward.**
 
-## Lesson 3: Drawing in Game Lab
 
-Then, work through all 10 sections of [Computer Science Discoveries Unit3 Lesson 3: Drawing in Game Lab](https://studio.code.org/s/csd3-2018/stage/3/puzzle/1) - Control-click on the link to open it in a new tab. Visit the informational pages so that you know what is there and try out the challenges.
-
-### Learning Targets
-
-* I can use the Game Lab IDE (*Integrated Development Environment*) to plot different colored shapes on the screen.
-* I can sequence code correctly to overlay shapes so that they produce the desired effect.
-* I can debug code written by others.
-
-## Challenges
-
-* Display colors that are not in the **fill()** funtion's dropdown menu.
-* Explain how to create different shades of gray (including black and white).
-
-## Submission
-
-Submit a **window** screen capture of the Lesson Extras page for Lesson 3, showing the progress bar at the top and your creation (be sure to run in so that the output of your code is visible).
