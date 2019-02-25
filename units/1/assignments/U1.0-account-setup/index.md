@@ -2,12 +2,9 @@
 
 ## Assignment Name
 
-[slides]: 
-[template]: 
+[slides]: https://docs.google.com/presentation/d/1GUpHtY3agSY_JXE9aIwwyHo8LFNL-_9P-0yAT0cLUdo/edit?usp=sharing
 
-
-
-[Slides: SLIDE DECK TITLE][slides] - right-click and choose **Open link in a new tab** to view.
+[Slides: **Getting Started in Game Lab][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
