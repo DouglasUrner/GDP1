@@ -21,7 +21,7 @@ To get started with with Game Lab and JavaScript, we'll learn how to create simp
 ## Instructions
 
 1. Sign in to the Code.org website and navigate to [Computer Science Discoveries Unit3 Lesson 3: Drawing in Game Lab](https://studio.code.org/s/csd3-2018/stage/3/puzzle/1) (**control-click** on the link to open it in a new tab).
-1. Work through all of the sections of the lesson. Visit all 10 sections, including the informational pages so that you know what is there and try out the challenges on the [Lesson Extras]() section at the end of the lesson.
+1. Work through all of the sections of the lesson. Visit all 10 sections, including the informational pages so that you know what is there and try out the challenges on the [Lesson Extras](https://studio.code.org/s/csd3-2018/stage/3/extras) section at the end of the lesson.
 1. Make a copy of the [submission template][template], complete it, and submit to finish up the assignment.
 
 ## Submission
