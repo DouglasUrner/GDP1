@@ -19,10 +19,10 @@ This is a quick assignment to get you connected to Code.org's Game Lab IDE (inte
 Start by signing up for an account on Code.Org by clicking on this link [https://studio.code.org/users/sign_up](https://studio.code.org/users/sign_up) please be sure to use the red **Sign in with Google Account** button the the right hand side, **do not fill in the form on the left side.** After setting up your account, join our section - you can enter the code at the bottom of the sign-up page or by going to [https://code.org/join](https://code.org/join).
 
 A-Days:
-* 2nd Block: [**STDQLN**](https://studio.code.org/join/STDQLN)
+* 2nd Block: [**STDQLN**](https://studio.code.org/join/STDQLN) (control-click or right-click and choose **Open link in new tab**)
 
 B-Bays:
-* 7th Block: [**ZVDMQK**](https://studio.code.org/join/ZVDMQK)
+* 7th Block: [**ZVDMQK**](https://studio.code.org/join/ZVDMQK) (control-click or right-click and choose **Open link in new tab**)
 
 **Please double check that you account shows your first and last names as it appear in Canvas or Skyward.**
 
