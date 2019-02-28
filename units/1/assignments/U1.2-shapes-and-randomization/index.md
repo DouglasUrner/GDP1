@@ -1,5 +1,9 @@
+[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/1/assignments/U1.2-shapes-and-randomization/" width="100%" height="666px"></iframe></p> )
 
-# Shapes, Parameters, and Random Numbers
+## Shapes & Randomization
+
+[slides]: https://docs.google.com/presentation/d/13EoBXrYUvYSFUCWaQZwNEv7UG4H57X9KP75m-3VxN8I/edit?usp=sharing
+[template]: https://drive.google.com/open?id=1X40JKUFPfV2LVLnYLslhv9c8OEHTMdFzin9_wf4xdf4
 
 The name that JavaScript uses for the code element that we used to draw rectangles and elipses in the last lesson:
 
@@ -9,7 +13,9 @@ is a ***function*** (other languages may use different terms, *procedure* and *m
 
 Today we're going to see how to change the size and proportions of the shapes as well.
 
-## Lesson 4: Shapes and Randomization
+[Slides: Shapes & Randomization][slides] - right-click and choose **Open link in a new tab** to view.
+
+## Instructions
 
 Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Lesson 4](https://studio.code.org/s/csd3-2018/stage/4/puzzle/1){:target="_blank"}) - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
 
@@ -27,4 +33,4 @@ Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Less
 
 ## Submission
 
-Submit a **window** screen capture of the Lesson Extras page for Lesson 4, showing the progress bar at the top and your creation.
+Use the [submission template][template] to turn in your assignment.
