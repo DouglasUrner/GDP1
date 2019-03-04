@@ -17,7 +17,11 @@ Today we're going to see how to change the size and proportions of the shapes as
 
 ## Instructions
 
-Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Lesson 4](https://studio.code.org/s/csd3-2018/stage/4/puzzle/1)) - Control-click on the link to open it in a new tab, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+1. Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Lesson 4](https://studio.code.org/s/csd3-2018/stage/4/puzzle/1)) - Control-click on the link to open it in a new tab.
+1. If you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+1. For this assignment step 12 is used to assess your understanding – be sure to complete this step.
+1. Make a copy of the [submission template][template] and fill it out.
+1. Once you've completed the template, submit it.
 
 ### Learning Targets:
 
