@@ -15,7 +15,11 @@
 
 ## Instructions
 
-* Work through ([Computer Science Discoveries, Unit 3 Lesson 6 - Sprites](https://studio.code.org/s/csd3-2018/stage/6/puzzle/1))
+1. Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Lesson 6 - Sprites](https://studio.code.org/s/csd3-2018/stage/6/puzzle/1)) - Control-click on the link to open it in a new tab.
+1. If you are finding that you would like an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+1. For this assignment steps 9 and 10 are used to assess your understanding – so be sure to complete both steps.
+1. Make a copy of the [submission template][template] and fill it out.
+1. Once you've completed the template, submit it.
 
 ### Self-checks
 
