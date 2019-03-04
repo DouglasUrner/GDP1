@@ -1,14 +1,25 @@
+[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/1/assignments/U1.4-sprites/" width="100%" height="666px"></iframe></p> )
 
+## Sprites
 
-## Lesson 6: Sprites
+[slides]: https://docs.google.com/presentation/d/14jlVqH83nC59OFM3iXYgdrqmjkSo68GpnHBlZncZ1kI/edit?usp=sharing
+[template]: https://docs.google.com/document/d/1ECeXZqbXfRf4QBlIWhsifpFLEH2X-sZEb0RB1PxUkn8/edit?usp=sharing
 
-Work through the steps of the lesson, if you are finding that you need an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+[Slides: Sprites][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
 * I can create a variable and assign a sprite to it.
 * I can use dot notation to access and change a sprite's properties
 * I can design and create a static scene combining sprites, shapes, and text.
+
+## Instructions
+
+
+
+### Self-checks
+
+
 
 ### Challenges
 
@@ -18,4 +29,11 @@ Work through the steps of the lesson, if you are finding that you need an additi
 
 ## Submission
 
-Submit a **window** screen capture of the Lesson Extras page for Lesson 6, showing the progress bar at the top and your creation.
+After completing your [template][], submit a PDF through Canvas - **do not** submit by sharing the document.
+
+
+
+
+
+
+
