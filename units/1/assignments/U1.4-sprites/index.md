@@ -15,7 +15,7 @@
 
 ## Instructions
 
-
+* Work through ([Computer Science Discoveries, Unit 3 Lesson 6 - Sprites](https://studio.code.org/s/csd3-2018/stage/6/puzzle/1))
 
 ### Self-checks
 
