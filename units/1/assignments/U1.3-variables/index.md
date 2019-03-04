@@ -1,22 +1,27 @@
-[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.2-first-submission/" width="100%" height="666px"></iframe></p> )
+[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/1/assignments/U1.3-variables/" width="100%" height="666px"></iframe></p> )
 
 ## Variables
 
 [slides]: https://docs.google.com/presentation/d/1SHqMZFa7uyGxBcGnIHUeAob1BSn9QIAC0RWNH9ZQefY/edit?usp=sharing
 [template]: https://docs.google.com/document/d/1dhyJooHTGlselc1PCG-Vn5u8LQlqesIEDbevteqvcV0/edit?usp=sharing
 
+You can think of **variables** as named containers that hold the **values** used in your program.
+
 [Slides: Variables][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
-* I can explain variables and describe how they are used to label and reference values in a program.
-* I can use variables in a program to store a piece of information that will be used multiple times.
-* I can figure out and fix common errors encountered when using variables in my programs.
+* I can explain **variables** and describe how they are used to label and reference **values** in a program.
+* I can use the **var** keyword to declare a variable.
+* I can use the **assignment operator**, **=**, to give a value to a variable.
+* I can use variables in a program to store a value that will be used multiple times.
+* I can identify and correct common errors encountered when using variables in my programs.
 
 ## Instructions
 
 1. Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Lesson 5 - Variables](https://studio.code.org/s/csd3-2018/stage/5/puzzle/1)) - Control-click on the link to open it in a new tab.
 1. If you are finding that you would like an additional challenge try some of the ideas below. Start with a design in your notes - can you think of a method (even if you can't figure out the code yet)?
+1. For this assignment steps 9 and 10 are used to assess your understanding – so be sure to complete both steps.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
