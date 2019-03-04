@@ -2,13 +2,14 @@
 
 ## The **draw()** Loop
 
-[slides]: 
-[template]: 
+[slides]: https://drive.google.com/open?id=1dH1csPjK3yVBePeXKG4y9bZ_cD34Zmu2agUc3lyme-M
+[template]: https://drive.google.com/open?id=17ziz0Yvjj9gNLRahc06EcMEqkACW5xKsDGhcwakfzik
 
 [Slides: The **draw()** loop][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
+* I can explain what a *loop* is.
 * I can explain what animations are, and how they create the illusion of smooth motion.
 * I can explain how the draw loop allows for the creation of animations in Game Lab.
 * I can use the draw loop in combination with the randomNumber() command, shapes, and sprites to make simple animations.
