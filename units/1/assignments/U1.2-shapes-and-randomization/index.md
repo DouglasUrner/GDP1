@@ -27,9 +27,8 @@ Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Less
 ## Challenges
 
 * If Game Lab didn't have a **background()** function, what other functions could you use to acheive the same result?
-* In step 8 make the cloud look more "cloudlike".
 * In step 12 generate a random color.
-* Use the **randomNumber()** function to create a realistic cloud. Vary the shape *and* position of the cloud. Does it look better if you also vary the color a bit? What are reasonable bounds on your parameters?
+* Use the **randomNumber()** function to create a realistic cloud. Vary the shape *and* the position of the cloud. Does the cloud look better if you also vary the color a bit? What are reasonable bounds on the parameters?
 
 ## Submission
 
