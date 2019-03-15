@@ -3,12 +3,12 @@
 
 [//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/2/assignments/U2.2-the-counter-pattern/" width="100%" height="666px"></iframe></p> )
 
-## The Counter Pattern
+## The Counter Pattern & Sprite Movement
 
 [slides]: #
 [template]: #
 
-[Slides: SLIDE DECK TITLE][slides] - right-click and choose **Open link in a new tab** to view.
+[Slides: The Counter Pattern & Sprite Movement][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
@@ -19,8 +19,11 @@
 
 ## Instructions
 
+1. Code.org [Unit 3 Lesson 9 - Sprite Movement][u3l9] uses the **counter pattern** as a way to move sprites in a smooth, continuous way – no more bouncing around at random. Work through the lesson.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
+
+[u3l9]: https://studio.code.org/s/csd3-2018/stage/9/puzzle/1
 
 ## Submission
 
