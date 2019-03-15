@@ -5,8 +5,8 @@
 
 ## The Counter Pattern & Sprite Movement
 
-[slides]: #
-[template]: #
+[slides]: https://docs.google.com/presentation/d/1zoqUeQQaZgavMT_BjwGBAsrYPxoCd3zo6ViXR2HIKDA/edit?usp=sharing
+[template]: https://docs.google.com/document/d/1n0F_aC0CCHgDVMx2IR3WcZazU3ev-kix7pDCDY0CaIY/edit?usp=sharing
 
 [Slides: The Counter Pattern & Sprite Movement][slides] - right-click and choose **Open link in a new tab** to view.
 
