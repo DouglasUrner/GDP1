@@ -17,7 +17,8 @@
 ## Instructions
 
 1. Work through the steps of the lesson ([Computer Science Discoveries, Unit 3 Lesson 7 - The Draw Loop](https://studio.code.org/s/csd3-2018/stage/7/puzzle/1)) - Control-click on the link to open it in a new tab.
-1. For this assignment steps [9](https://studio.code.org/s/csd3-2018/stage/7/puzzle/9) and [10](https://studio.code.org/s/csd3-2018/stage/7/puzzle/10) are used to assess your understanding – so please be sure to complete both steps.
+1. For this assignment step [12](https://studio.code.org/s/csd3-2018/stage/7/puzzle/12) is used to assess your understanding – so please be sure to complete the task and to review the slides to see how to clean up the code.
+1. Take some time with set [12](https://studio.code.org/s/csd3-2018/stage/7/puzzle/12) to experiment with which parts of your code you can move out of the draw() function.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
