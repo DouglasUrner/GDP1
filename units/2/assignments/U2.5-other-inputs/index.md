@@ -8,7 +8,7 @@
 [slides]: #
 [template]: #
 
-[Slides: SLIDE DECK TITLE][slides] - right-click and choose **Open link in a new tab** to view.
+[Slides: Other Forms of Input][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
