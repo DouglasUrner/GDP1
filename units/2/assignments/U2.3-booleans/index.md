@@ -5,8 +5,8 @@
 
 ## Booleans & Conditionals
 
-[slides]: #
-[template]: #
+[slides]: https://docs.google.com/presentation/d/1Yl01aeyJXc7pOkDCNa1P8xo1_t08LdUhYpFcAHa50NA/edit?usp=sharing
+[template]: https://docs.google.com/document/d/1A2B1EDhRhgxUCseBPQ_su1A0qBTstVVh2o8BUFbgBBA/edit?usp=sharing
 
 [Slides: Booleans & Conditionals][slides] - right-click and choose **Open link in a new tab** to view.
 
