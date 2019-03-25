@@ -12,7 +12,8 @@
 
 ### Learning Targets:
 
-* I can ...
+* I can predict the output of simple boolean statements
+* I can use conditionals to react to changes in variables and sprite properties
 
 ## Instructions
 
