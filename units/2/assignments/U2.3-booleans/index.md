@@ -17,6 +17,7 @@
 
 ## Instructions
 
+1. Work through [](https://studio.code.org/s/csd3-2018/stage/11/puzzle/1)
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
