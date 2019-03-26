@@ -6,7 +6,7 @@
 ## Keyboard Input
 
 [slides]: #
-[template]: #
+[template]: https://drive.google.com/open?id=1nBTZ8hCVLIefjz9IUOdtG38kq1BpLH3Cs_yWI6gbIhM
 
 [Slides: Keyboard Input][slides] - right-click and choose **Open link in a new tab** to view.
 
