@@ -12,8 +12,9 @@
 
 ### Learning Targets:
 
-* I can predict the output of simple boolean statements
-* I can use conditionals to react to changes in variables and sprite properties
+I can:
+* Use conditionals to react to keyboard input.
+* Move sprites in response to keyboard input
 
 ## Instructions
 
