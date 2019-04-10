@@ -18,7 +18,7 @@ Many images on the web are in JPEG format. JPEG does not support transparency, s
 
 Your edited image will look similar to the one on the right and will composite seemlessly with other sprites and backgrounds in Game Lab. You can use the ```sprite.scale``` property to adjust the size of the image when the sprite is displayed.
 
-Look closely at the example of the kite in Game Lab. Can you see the faint edge of blue along the left hand side where it overlaps the tree? It may help to right-click on the image and open it in a new tab so that you can see it at full size). That is caused by a little bit of the background that I missed. Starting with a large image and looking closely at it in Photoshop will help you catch problems like this.
+Look closely at the example of the kite in Game Lab. Can you see the faint edge of blue along the left hand side where it overlaps the tree? It may be easier to see if you right-click on the image and choose **Open image in a new tab** so that you can see it at full size. That is caused by a little bit of the background that I missed. Starting with a large image and looking closely at it in Photoshop will help you catch problems like this.
 
 <img src="images/kite-on-background.png" align="right" width="33%">
 
