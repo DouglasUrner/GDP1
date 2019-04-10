@@ -14,6 +14,7 @@
 
 I can:
 * Use Photoshop to remove the background in an image.
+* Use Photoshop to crop an image.
 * Use Photoshop to reduce the size of an image.
 * Save in image in PNG format (to preserve transparancy).
 
