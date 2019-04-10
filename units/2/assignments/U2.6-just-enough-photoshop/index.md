@@ -12,7 +12,7 @@
 
 To use an images as sprites, you often need to remove the background and in many cases you will need to reduce the size of the image to get around the 100 KB limit imposed by Game Lab. In this assignment we will practice this skill, then you will independently remove the background and resize an image for your use.
 
-<img src="images/kite-transparent.png">
+<img src="images/kite-transparent.png" align="right">
 
 Many images on the web are in JPEG format. JPEG does not support transparency, so we will need to save the images in the Portable Network Graphic (PNG) format.
 
