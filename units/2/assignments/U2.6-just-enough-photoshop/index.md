@@ -16,11 +16,11 @@ To use an images as sprites, you often need to remove the background and in many
 
 Look closely at the example of the kite in Game Lab. Can you see the faint edge of blue along the left hand side where it overlaps the tree?
 
-<img src="images/kite-on-background.png" align="right">
-
 Many images on the web are in JPEG format. JPEG does not support transparency, so we will need to save the images in the Portable Network Graphic (PNG) format.
 
 Your edited image will look similar to the one on the right and will composite seemlessly with other sprites and backgrounds in Game Lab. You can use the ```sprite.scale``` property to adjust the size of the image when the sprite is displayed.
+
+<img src="images/kite-on-background.png" align="right">
 
 [Slides: Just Enough Photoshop][slides] - right-click and choose **Open link in a new tab** to view.
 
