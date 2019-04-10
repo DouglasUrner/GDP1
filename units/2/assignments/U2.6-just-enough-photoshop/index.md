@@ -32,9 +32,18 @@ Follow along as we walk through the process together. Then:
 
 1. Find an image that you would like to use in Game Lab.
 1. Download the image.
-1. 
+1. Open it in Photoshop.
+   - Unlock the Background layer (it will be renamed Layer 0).
+   - Use the Magic Wand tool to select the background.
+   - Delete the background.
+   - Crop the image.
+   - Resize the image.
+1. Save the image as a PNG.
+1. Upload it as a new sprite in Game Lab.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
+
+Photoshop has a **lot** of buttons and there a plenty of ways to get Photoshop confused (and when it is confused it takes it out on you...). It may help to follow along with the [slides][]. Fortunately, this task is usually pretty quick, so don't be afraid to start over. Another good thing to know is that in Photoshop Control-Z undoes the **last** thing you did. To step backwards through your history, use Control-Alt-Z.
 
 ## Submission
 
