@@ -28,6 +28,11 @@ I can:
 
 ## Instructions
 
+Follow along as we walk through the process together. Then:
+
+1. Find an image that you would like to use in Game Lab.
+1. Download the image.
+1. 
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
