@@ -40,6 +40,9 @@ Follow along as we walk through the process together. Then:
    - Resize the image.
 1. Save the image as a PNG.
 1. Upload it as a new sprite in Game Lab.
+   - Use the image as the animation for a sprite.
+   - Put the sprite on a contrasting background.
+   - Check to see if it looks "seamless" with no tell-tale "stuff" around the edges. If you notice that there is some remaining background, go back to Photoshop and clean it up.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
