@@ -3,6 +3,8 @@
 
 [//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/2/assignments/U2.5-other-inputs/" width="100%" height="666px"></iframe></p> )
 
+<img src="images/kite.jpg">
+
 ## Just Enough Photoshop
 
 [slides]: https://docs.google.com/presentation/d/1gM5BeHbx0E7Y9HE74nNp8vlQTB_Io1i9UpIdZ06HVpw/edit?usp=sharing
@@ -10,7 +12,7 @@
 
 To use an images as sprites, you often need to remove the background and in many cases you will need to reduce the size of the image to get around the 100 KB limit imposed by Game Lab. In this assignment we will practice this skill, then you will independently remove the background and resize an image for your use.
 
-<img src="images/kite.jpg">
+<img src="images/kite-transparent.png">
 
 Many images on the web are in JPEG format. JPEG does not support transparency, so we will need to save the images in the Portable Network Graphic (PNG) format.
 
