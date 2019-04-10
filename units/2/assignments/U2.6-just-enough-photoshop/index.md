@@ -5,7 +5,7 @@
 
 ## Just Enough Photoshop
 
-[slides]: #
+[slides]: https://docs.google.com/presentation/d/1gM5BeHbx0E7Y9HE74nNp8vlQTB_Io1i9UpIdZ06HVpw/edit?usp=sharing
 [template]: #
 
 [Slides: Just Enough Photoshop][slides] - right-click and choose **Open link in a new tab** to view.
