@@ -14,6 +14,8 @@ To use an images as sprites, you often need to remove the background and in many
 
 <img src="images/kite-transparent.png" align="right">
 
+Look closely at the example of the kite in Game Lab. Can you see the faint edge of blue along the left hand side where it overlaps the tree?
+
 <img src="images/kite-on-background.png" align="right">
 
 Many images on the web are in JPEG format. JPEG does not support transparency, so we will need to save the images in the Portable Network Graphic (PNG) format.
