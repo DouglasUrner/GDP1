@@ -22,7 +22,7 @@ Look closely at the example of the kite in Game Lab. Can you see the faint edge 
 
 <img src="images/kite-on-background.png" align="right" width="33%">
 
-[Slides: Just Enough Photoshop][slides] - right-click and choose **Open link in a new tab** to view.
+[][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
