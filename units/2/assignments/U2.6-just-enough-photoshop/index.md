@@ -7,7 +7,7 @@
 
 ## Just Enough Photoshop
 
-[slides]: # https://docs.google.com/presentation/d/1gM5BeHbx0E7Y9HE74nNp8vlQTB_Io1i9UpIdZ06HVpw/edit?usp=sharing
+[slides]: https://docs.google.com/presentation/d/1gM5BeHbx0E7Y9HE74nNp8vlQTB_Io1i9UpIdZ06HVpw/edit?usp=sharing
 [template]: https://docs.google.com/document/d/1nuKdGzzO0zpyPj3YNVnIUP1G_JCczc7q5YDwRepFJK8/edit?usp=sharing
 
 To use an images as sprites, you often need to remove the background and in many cases you will need to reduce the size of the image to get around the 100 KB limit imposed by Game Lab. In this assignment we will practice this skill, then you will independently remove the background and resize an image for your use.
