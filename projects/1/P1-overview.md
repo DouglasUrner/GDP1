@@ -1,10 +1,10 @@
 ---
 ---
 
-[plan]: #
+[plan]: https://douglasurner.github.io/GDP1/projects/1/P1.1-concept-and-plan.html
 [development]: https://douglasurner.github.io/GDP1/projects/1/P1.2-develop.html
-[evaluation]: #
-[iteration]: #
+[evaluation]: https://douglasurner.github.io/GDP1/projects/1/P1.3-evaluate.html
+[iteration]: https://douglasurner.github.io/GDP1/projects/1/P1.4-iterate.html
 
 ## Interactive Card Project
 
@@ -17,23 +17,4 @@ The projects has four phases:
 1. [Evaluation][] - Review two cards with their creators (and review your card with two people).
 1. [Iteration][] - Take your feedback from the previous step and use it to iterate on (revise) your design.
 
-Each phase has a deliverable (and a corresponding assignment in the gradebook).
-
-### Learning Targets:
-
-* I can plan a project.
-* I can use conditionals to react to keyboard input or changes in variables / properties.
-* I can sequence commands to draw in the proper order.
-* I can use the *counter pattern* to move a sprite smoothly.
-
-## Project Phases
-
-Do each phase in order and submit the corresponding assignment before moving on to the next phase.
-
-### 1 - [Concept and Plan][plan]
-
-### 2 - [Development][develop]
-
-### 3 - [Evaluate][evaluate]
-
-### 4 - [Iterate][iterate]
+Each phase has a deliverable on Canvas (and a corresponding assignment in the grade book).
