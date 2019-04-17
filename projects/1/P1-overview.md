@@ -2,7 +2,7 @@
 ---
 
 [plan]: #
-[develop]: #
+[develop]: https://douglasurner.github.io/GDP1/projects/1/P1.2-develop.html
 [evaluate]: #
 [iterate]: #
 
