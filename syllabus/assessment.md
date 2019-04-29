@@ -23,4 +23,6 @@ Demonstrate the knowedge of key concepts and the ability to explain them. Assign
 
 ## Unit Summative Assessments
 
+The unit summative assessments are opportunities to put what you have learned into practice. Each assessment is a design project that features the skills and knowledge (including vocabulary) from the unit. These projects are also opportunities to demonstrate improvement in the standards from previous units.
+
 ## Course Summative Assessment (Final Project)
