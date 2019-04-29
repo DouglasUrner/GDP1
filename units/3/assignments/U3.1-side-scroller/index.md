@@ -10,7 +10,7 @@ In this lesson we are going to start our investigation of one of the "big ideas"
 The **sprite.velocityX**, **sprite.velocityY**, and the **sprite.rotationSpeed** are examples of abstractions – they let us focus on "higher level" interests, in this case how a sprite is moving, without worrying about the details of how the movement is implemented.
 
 [slides]: #
-[template]: #
+[template]: https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing
 
 [Slides: Abstractions][slides] - right-click and choose **Open link in a new tab** to view.
 
@@ -25,7 +25,7 @@ The **sprite.velocityX**, **sprite.velocityY**, and the **sprite.rotationSpeed**
 
 1. On Code.org work through [Lesson 15: Velocity](https://studio.code.org/s/csd3-2018/stage/15/puzzle/1).
 1. Then, go on to [Lesson 16: Collision Detection](https://studio.code.org/s/csd3-2018/stage/16/puzzle/1).
-1. Once you have completed the [Side Scroller](https://studio.code.org/s/csd3-2018/stage/15/puzzle/11) - including the score challenge from [Step 10 of Lesson 16](https://studio.code.org/s/csd3-2018/stage/16/puzzle/10), share, and add a link to the [template](https://docs.google.com/document/d/1gVR-eagLCPBAyVarJJRZTLyHFCMPr59zQ4gQ2l_RFQ8/edit?usp=sharing).
+1. Once you have completed the [Side Scroller](https://studio.code.org/s/csd3-2018/stage/15/puzzle/11) - including the score challenge from [Step 10 of Lesson 16](https://studio.code.org/s/csd3-2018/stage/16/puzzle/10), share, and add a link to the [template][].
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
