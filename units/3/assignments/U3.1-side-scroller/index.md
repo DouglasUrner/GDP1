@@ -1,7 +1,7 @@
 ---
 ---
 
-[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/3/U3L01-side-scroller/" width="100%" height="666px"></iframe></p> )
+[//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/3/assignments/U3.1-side-scroller/" width="100%" height="666px"></iframe></p> )
 
 ## Abstractions & the Side Scroller Game
 
