@@ -4,7 +4,7 @@
 
 ## Formative (kind of) Assessments
 
-* Accepted until the *start* of the Unit Project.
+* Accepted until the *start* of the Unit Project. Since the end of unit assessments, also assess the same standards, if you have not done or submitted these assignments by the start of the end of unit project you will most likely be better off focusing your energy on the project. If you have not completed the skill building practice, you may need to do or at least explore those assignments.
 
 ### Skill, Knowledge, and Experience Building Practice
 
