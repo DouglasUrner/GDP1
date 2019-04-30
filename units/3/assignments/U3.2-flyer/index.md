@@ -3,7 +3,7 @@
 
 [//]: # ( <p><iframe src="https://douglasurner.github.io/GDP1/units/0/assignments/U0.2-first-submission/" width="100%" height="666px"></iframe></p> )
 
-## Physics & the Flyer Game
+## Game Lab Physics & the Flyer Game
 
 [slides]: #
 [template]: https://docs.google.com/document/d/1XTNK5uS6JM7RbFnPWlXCvYuKNisIWtH2Lfzc9q-WiiY/edit?usp=sharing
