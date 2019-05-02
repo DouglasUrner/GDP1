@@ -1,5 +1,11 @@
 # Notes for Unity Introduction
 
+## Objectives
+
+* Know the components of the Unity Editor UI.
+* Understand the relationships between Game Objects and Componets.
+* Understand the role of Git ("single user")
+
 ## Part I: The Unity Editor
 
 Unity concepts:
