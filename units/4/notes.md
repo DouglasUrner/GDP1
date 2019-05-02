@@ -5,8 +5,15 @@
 Unity concepts:
 * Overview
 * Editor interface (panes/tabs)
+  - Heirarchy
+  - Inspector
+  - Scene view
+  - Game view
+  - Play mode
 * Game Objects
 * Components
+* Scripts
+  - Scripts as components
 * Scene view
 * Play mode
 * Tilemaps
