@@ -18,6 +18,7 @@ Functions help you manage complex code by abstracting operations into **function
 
 ## Instructions
 
+1. On Code.org work through [Lesson 19: Functions](https://studio.code.org/s/csd3-2018/stage/19/puzzle/1) to complete your Collector game.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
