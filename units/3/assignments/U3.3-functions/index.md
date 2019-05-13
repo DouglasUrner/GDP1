@@ -5,7 +5,7 @@
 
 ## Functions
 
-[slides]: #
+[slides]: https://docs.google.com/presentation/d/1DnmvOhShgC5f7UY-wZvesLmdCdJdPSgOozZbi_vXsiQ/edit?usp=sharing
 [template]: https://docs.google.com/document/d/1-0IvE0nlNj4Pv73nHS21bWDkRmPsuB9TkNhq_5LTzNA/edit?usp=sharing
 
 Functions help you manage complex code by abstracting operations into **functions** that handle tasks for you. In this assignment you'll start writing functions.
