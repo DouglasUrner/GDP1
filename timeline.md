@@ -3,6 +3,8 @@
 | Semester 1 Start | Semester 2 Start | Unit / Task / Event | Summative Assessment | Semester 1 Due | Semester 2 Due |
 | :---  | :--- | :--- | :--- | :--- | :--- |
 | w/o 08 Oct | w/o 04 Mar | CSD Unit 3 Chapter 1 | Interactive Card |  |  |
-|  | w/o 25 Mar |  | Interactive Card |  |  |
-|  |  | CSD Unit 3 Chapter 2 |  |  |  |
-| 7 Dec | 1 May | Final Project Design & Prototyping & Unity Intro (Pre-Winter Break & AP Testing) |
+| w/o 29 Oct | w/o 25 Mar |  | Interactive Card |  |  |
+| w/o 05 Nov | w/o 08 Apr | CSD Unit 3 Chapter 2 |  |  |  |
+| w/o 19 Nov |  |  | CS Night Demo |  |  |  |
+|  | w/o 15 Apr |  | SSC Entry |  |  |  |
+|  |  |  |
