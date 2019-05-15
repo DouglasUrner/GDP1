@@ -12,6 +12,8 @@ API is an acronym for **A**pplication **P**rogramming **I**nterface - an API is 
 
 To be generally useful an API needs to provide the programmer with some flexibility - for example where to place the trees or the clouds. A good API documents an abstraction, or a set of abstractions that make it easier to think about the code you are writing - and easier to read it later on.
 
+Start off simple - get you API defined and working, then work on improving it. Here is [**an Example**](https://studio.code.org/projects/gamelab/b72JM01GSBBFoYUkZmi_AYpc0JM07_arv1FiLLbZvA4).
+
 [Slides: APIs][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
