@@ -15,7 +15,7 @@ Develop skills to work on a team development project.
 **Essential Tasks:**
 
 | Activity | Unit 1 | Unit 2 | Unit 3 | Unit 4 | Final |
-| :---     | :---   | :---   | :---   | :---   | :---  |
+| :---     | :---:  | :---:  | :---:  | :---:  | :---: |
 | Analyzing the effects of developments in computing
 | Designing and implementing creative solutions and artifacts
 | Applying abstractions and models
