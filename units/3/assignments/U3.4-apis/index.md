@@ -6,13 +6,13 @@
 ## APIs
 
 [slides]: https://docs.google.com/presentation/d/1crSPK4-4y188dyE0rguHz5-F8B7wjlbS2TSERaUDvVI/edit?usp=sharing
-[template]: #
+[template]: https://docs.google.com/document/d/1spC2VK79HHuh0-KrCEfv1ynDjWSb-iAY08FBozDYoIo/edit?usp=sharing
 
 API is an acronym for **A**pplication **P**rogramming **I**nterface - an API is a set of objects, methods, and properties that define how a system of code (or part of a system of code) works. In the [slides][] the methods ```drawClouds()``` and ```drawTrees()``` could be the beginning of an API for creating landscapes. You can probably imagine other methods that could be added as well, perhaps ```drawBush()```, ```drawBoulder()```, etc.
 
 To be generally useful an API needs to provide the programmer with some flexibility - for example where to place the trees or the clouds. A good API documents an abstraction, or a set of abstractions that make it easier to think about the code you are writing - and easier to read it later on.
 
-Start off simple - get you API defined and working, then work on improving it. Here is [**an Example**](https://studio.code.org/projects/gamelab/b72JM01GSBBFoYUkZmi_AYpc0JM07_arv1FiLLbZvA4).
+Start off simple - get you API defined and working, then work on improving it. Here is [**an Example**](https://studio.code.org/projects/gamelab/b72JM01GSBBFoYUkZmi_AYpc0JM07_arv1FiLLbZvA4) of an early stage in the API development.
 
 [Slides: APIs][slides] - right-click and choose **Open link in a new tab** to view.
 
