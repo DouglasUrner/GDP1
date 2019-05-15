@@ -1,6 +1,6 @@
 # GDP 1 Units
 
-* [0: Designing Games](0): 5 weeks
+* [0: Designing Games](0): 5 weeks  
   - Formative:
     - Vocabulary test (samples of student writing without precise terminolgy, select the correct/better term).
     - Genre poster
@@ -11,7 +11,7 @@
       - Gather responses to your game, and
       - Write a critique of one of the games - responding to the questions the designers ask.
     - Iterate
-* [1: Programming Basics](1): 5 blocks
+* [1: Programming Basics](1): 5 blocks  
    CSD Unit 3 Chapter 1, through the static scene.
   - Formative:
   - Sumative: [Static Scene]()
@@ -19,7 +19,7 @@
     - Code
     - Evaluate
     - Iterate
-* [2: Sprite Movement & Interaction](2): 8 blocks
+* [2: Sprite Movement & Interaction](2): 8 blocks  
    Through the Interactive card CSD Unit 3 Lesson 14.
   - Formative:
   - Sumative: [Interactive Card](../projects/1): 3 blocks
@@ -27,7 +27,7 @@
     - Code
     - Evaluate
     - Iterate
-* [3: Building Games](3): 3 weeks
+* [3: Building Games](3): 3 weeks  
    CSD Unit 3 Chapter 2
   - Formative:
     - Side Scroller
