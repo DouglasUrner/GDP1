@@ -27,7 +27,7 @@ For this assignment you will be improving and extending an API for drawing lands
 1. Start by sketching a simple landscape - trees, flowers, clouds, etc. Have each person make a sketch. Compare the sketches and make a list of the elements that you each used. Note what is different about them (those differences might mean that they are "different objects" - say a pine tree vs. an oak tree - or they can help you see where you need parameters - for example, to specify the location of a tree or a boulder).
 1. Each item in your landscape represents an element of your API. Divide up the elements so that each member of your group has at least two functions to write.
 1. After you write your functions, share them with your team members - on easy way to do this is to copy and paste them into a Google Doc.
-1. Then, using your API, create the landscape that you sketched.
+1. Then, using your API, create the landscape that you sketched in the **[Lesson Extras](https://studio.code.org/s/csd3-2018/stage/19/extras) step of Lesson 19.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
