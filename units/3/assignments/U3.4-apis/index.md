@@ -33,6 +33,7 @@ For this assignment you will be improving and extending an API for drawing lands
 1. Then, using your API, create the landscape that you sketched in the [**Lesson Extras**](https://studio.code.org/s/csd3-2018/stage/19/extras) step of Lesson 19.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
+1. Make sure that your sketch page in your notebook is dated & titled & bookmarked.
 
 ## Submission
 
