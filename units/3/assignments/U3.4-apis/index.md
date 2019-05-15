@@ -18,6 +18,7 @@ To be generally useful an API needs to provide the programmer with some flexibil
 
 * I can explain what the term **API** means to a programmer.
 * I can propose methods (functions) to include in a simple API
+* I can create a simple program that uses an API.
 
 ## Instructions
 
