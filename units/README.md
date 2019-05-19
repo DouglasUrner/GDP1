@@ -4,7 +4,7 @@
   - Formative:
     - Vocabulary test (samples of student writing without precise terminolgy, select the correct/better term).
     - Genre poster
-    - Design process
+    - Design process  
       [What is your game design process?](https://www.youtube.com/watch?v=djimfGjdCKI)
       - Development of the concept/brief
       - Brainstorming possible games (solutions) - selecting one to prototype
