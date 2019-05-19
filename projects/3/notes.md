@@ -20,6 +20,7 @@ Examples of games that tackle social issues:
 * [My Child Lebensborn](http://www.mychildlebensborn.com/) - Caring for childern from the World War Two-era Lebensborn project
 * [Papers Please](https://papers-plea.se) - Refugees, war and migration
 * [Papo y Yo](http://www.weareminority.com/papo-yo/) - Child abuse
+* [PeaceMaker]() - Simulation of Middle-East peace process
 * [Picturesque]() - Mental health
 * [Shelter](http://store.steampowered.com/app/244710/) - The environment
 * [Shelter 2](http://store.steampowered.com/app/275100/) - The environment
@@ -32,4 +33,5 @@ Examples of games that tackle social issues:
 Commentary on the project of greating social impact games:
 
 * [Video games to tackle mental health stigma](https://www.bbc.com/news/uk-wales-47304215) - 2019
+* [Computer Games Explore Social Issues](https://www.edutopia.org/serious-games-computer-simulations) - 2009
 * [Can Social-Change Video Games Tackle Divorce, Poverty, Genocide?](http://www.mtv.com/news/1535474/can-social-change-video-games-tackle-divorce-poverty-genocide/) - Raph Koster's 2006 critique of taking on social issues through games at Games for Change.
