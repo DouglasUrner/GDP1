@@ -10,6 +10,7 @@
 ## Games that tackle social issues
 
 * Depression Quest
+* [Papers Please](https://papers-plea.se)
 * [That Dragon, Cancer](http://www.thatdragoncancer.com)
 
 
