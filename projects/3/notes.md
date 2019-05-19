@@ -11,17 +11,21 @@
 
 Examples of games that tackle social issues:
 
-* [After Days](https://play.google.com/store/apps/details?id=com.GamBridzy.AfterDays) - Rescuing your neighbors after an earthquake 
+* [After Days](https://play.google.com/store/apps/details?id=com.GamBridzy.AfterDays) - Rescuing your neighbors after an earthquake
+* [Climate Challenge](http://makesyouthink.net/games/climate-challenge)
 * [Depression Quest](http://www.depressionquest.com) - Depression
 * [Elude](http://gambit.mit.edu/loadgame/summer2010/elude_play.php) - Mental health
 * [Flower]() - The environment, [trailer](https://youtu.be/mk1-F5il_c8)
 * [Get Help]() - Mental health
+* [ICED]() - Immigration, deportation
 * [Life is Strange](http://www.lifeisstrange.com/) - Alcholism, bullying, child abuse
 * [My Child Lebensborn](http://www.mychildlebensborn.com/) - Caring for childern from the World War Two-era Lebensborn project
+* [Operation: Climate Control](http://makesyouthink.net/games/operation-climate-control)
 * [Papers Please](https://papers-plea.se) - Refugees, war and migration
 * [Papo y Yo](http://www.weareminority.com/papo-yo/) - Child abuse
 * [PeaceMaker]() - Simulation of Middle-East peace process
 * [Picturesque]() - Mental health
+* [Red Redemption](http://red-redemption.com/) - Carbon emmissions
 * [Shelter](http://store.steampowered.com/app/244710/) - The environment
 * [Shelter 2](http://store.steampowered.com/app/275100/) - The environment
 * [That Dragon, Cancer](http://www.thatdragoncancer.com)
@@ -29,6 +33,10 @@ Examples of games that tackle social issues:
 * [The Way of Life](https://www.kongregate.com/games/malbom/the-way-of-life) - Empathy, perspective
 * [Whisper of a Rose](https://www.bigfishgames.com/games/5866/whisper-of-a-rose/) - Bullying
 * [YourStoryTeller](https://play.google.com/store/apps/details?id=com.yourStoryTeller.Zmq&hl=en) - Women's issues in India
+
+Designers Working on "serious games:"
+
+* [Ian Bogost]() - [Serious Games Summit](), [Persuasive Games: The Expressive Power of Video Games]()
 
 Commentary on the project of greating social impact games:
 
