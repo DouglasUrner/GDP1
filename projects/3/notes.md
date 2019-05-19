@@ -9,6 +9,8 @@
   
 ## Games that tackle social issues
 
+Examples of games that tackle social issues:
+
 * [After Days](https://play.google.com/store/apps/details?id=com.GamBridzy.AfterDays) - Rescuing your neighbors after an earthquake 
 * [Depression Quest](http://www.depressionquest.com) - Depression
 * [Elude](http://gambit.mit.edu/loadgame/summer2010/elude_play.php) - Mental health
@@ -24,4 +26,6 @@
 * [Whisper of a Rose](https://www.bigfishgames.com/games/5866/whisper-of-a-rose/) - Bullying
 * [YourStoryTeller](https://play.google.com/store/apps/details?id=com.yourStoryTeller.Zmq&hl=en) - Women's issues in India
 
+Commentary on the project of greating social impact games:
 
+* [Can Social-Change Video Games Tackle Divorce, Poverty, Genocide?](http://www.mtv.com/news/1535474/can-social-change-video-games-tackle-divorce-poverty-genocide/) - Raph Koster's 2006 critique of taking on social issues through games at Games for Change.
