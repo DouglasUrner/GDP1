@@ -1,6 +1,6 @@
 * Brief
 * GDD
-  - Document plans for the game - what are you going to build?
+  - Document plans for the game: what are you going to build? what decisions have you made?
   - Essential components:
     - Core of the game: what do you do most of time? what makes the game fun? what defines the essence of the game?
   - References:
