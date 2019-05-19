@@ -17,6 +17,7 @@
 * [Shelter](http://store.steampowered.com/app/244710/) - The environment
 * [Shelter 2](http://store.steampowered.com/app/275100/) - The environment
 * [That Dragon, Cancer](http://www.thatdragoncancer.com)
+* [The Way of Life](https://www.kongregate.com/games/malbom/the-way-of-life) - Empathy, perspective
 * [Whisper of a Rose](https://www.bigfishgames.com/games/5866/whisper-of-a-rose/) - Bullying
 
 
