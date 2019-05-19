@@ -40,6 +40,7 @@ Designers Working on "serious games:"
 
 Commentary on the project of greating social impact games:
 
+* [Paul Smith’s students tackle video game culture](https://ogd.com/ogd/paul-smiths-students-tackle-video-game-culture-20190207) - 2019
 * [Video games to tackle mental health stigma](https://www.bbc.com/news/uk-wales-47304215) - 2019
 * [Computer Games Explore Social Issues](https://www.edutopia.org/serious-games-computer-simulations) - 2009
 * [Can Social-Change Video Games Tackle Divorce, Poverty, Genocide?](http://www.mtv.com/news/1535474/can-social-change-video-games-tackle-divorce-poverty-genocide/) - Raph Koster's 2006 critique of taking on social issues through games at Games for Change.
