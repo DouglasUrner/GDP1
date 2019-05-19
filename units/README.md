@@ -9,6 +9,7 @@
       - Brainstorming possible games (solutions) - selecting one to prototype
       - Implementing the prototype
       - Playtesting
+        - [How to](https://prezi.com/zarz0efoirax/game-development-game-design-brief-dev-lesson-1/)
       - Looping
     - Critique a game
   - Summative: Game Modification
