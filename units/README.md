@@ -3,7 +3,8 @@
 * [0: Designing Games](0): 5 weeks  
   - Formative:
     - Vocabulary test (samples of student writing without precise terminolgy, select the correct/better term).
-    - Genre poster
+    - Genre poster  
+      Describe a game style (platformer, side scroller, dungeon crawler) - focus on the mechanics of the game, what is the core game play, describe some stories that this game style lends itself to.
     - Design process  
       [What is your game design process?](https://www.youtube.com/watch?v=djimfGjdCKI)
       - Development of the concept/brief
@@ -12,6 +13,7 @@
       - Playtesting
         - [How to](https://prezi.com/zarz0efoirax/game-development-game-design-brief-dev-lesson-1/)
       - Looping
+    - Game elements
     - Critique a game
   - Summative: Game Modification
   - Summative: [Paper Prototype](../projects/0)
