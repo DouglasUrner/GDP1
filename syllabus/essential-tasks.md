@@ -48,6 +48,19 @@ By the end of the semester you should be able to:
 
 In completing the essential tasks you will demonstrate these skills:
 
+* ET.2: Creating Games
+  - Use the Game Lab IDE
+  - Use the Unity Editor (with PlaygroundProject)
+  - Select & create sprites
+    - Copyright & licenses
+    - File formats
+    - Piskel
+    - Photoshop
+  - Select audio assets
+    - Copyright
+    - File formats
+    - Editing
+    - Applying in game
 * Creating and managing shared documents.
 * Tracking due dates and managing expectations.
 * Working with online services and accounts.
