@@ -25,19 +25,24 @@ Develop skills to work on a team development project.
 
 By the end of the semester you should be able to:
 
+**ET.1:**  
 * Analyze the impact of games in the world, analyze the development of game development tools
+  - Describe possible career pathways in game (interactive experience) design and programming.
+**ET.2:**  
 * Independently implement a prototype for a game of your own design
+  - Develop a concept for an interactive experience.
+  - Create a digitial prototype to test your core mechanic.
+**ET.3:**  
 * Represent your game through computational models and abstractions
+**ET.4:**  
 * Analyze the design of a game and develop a critique if it (as a game, as a design (evidence of craft), and as a "force" in the world (what kind of interactions in the would does the game reward, what "model" of the world does it espouse)
-* Document the development of your game designs and share design ideas with team members & stakeholders
+**ET.5:**  
+* Document the development of your game designs and share design ideas with team members & stakeholders.
+  - Game brief and GDD
+  - Research
+  - Test plans
+**ET.6:**  
 * Collaborate on a team to create a game prototype, use industry tools that support collaboration (GitHub, Google Sheets & Docs)
-
-* Develop a concept for an interactive experience.
-* Identify the core mechanic (mode of interaction) used in your concept.
-* Create a digitial prototype to test your core mechanic.
-* Document your design and the research and testing related to it.
-* Collaborate with a diverse team on a project – both in person and electronically.
-* Describe possible career pathways in game (interactive experience) design and programming
 
 **Associated Skills:**
 
