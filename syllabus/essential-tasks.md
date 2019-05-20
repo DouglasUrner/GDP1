@@ -17,6 +17,7 @@ Develop skills to work on a team development project.
 | Activity | Unit 1 | Unit 2 | Unit 3 | Unit 4 | Final |
 | :---     | :---   | :---   | :---   | :---   | :---  |
 | Analyzing the effects of developments in computing | Do research towards a "genre poster." |
+| * Game culture |
 | Designing and implementing creative solutions and artifacts | 
 | Applying abstractions and models |  |
 | Analyzing their computational work and the work of others |  |
