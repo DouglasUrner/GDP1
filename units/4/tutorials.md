@@ -9,6 +9,11 @@
 * Go to http://github.com
   - Search for UnityPlayground
   - Clone using GitHub Desktop
+  - Place in U:\GitHub
+  - Use the Go to folder in Explorer button in GitHub Desktop to do that.
+* In Unity open the UnityPlayground (File > Open Project, the click on the Open button and navigate to the UnityPlayground folder (U:\GitHub\UnityPlayground).
+* Explore a bit in the Assets folder. Find the Assets folder and then open the Getting Started document in the Documentation folder.
+* Go to page 3
 
 **UI Elements & Vocabulary:**  
 Scene view  
