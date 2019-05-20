@@ -46,7 +46,8 @@
     - Collector
   - Sumative:
     - [Game](../projects/2)
-* [Final: Community Game or SSC Entry](../projects/3)
-    - Hard deadline for "local competition"
 * [4: Introduction to Unity](4): 2 weeks
    The Unity UI with Playground.
+* [Final: Community Game or SSC Entry](../projects/3)
+    - Hard deadline for "local competition"
+
