@@ -18,8 +18,9 @@ values
 NavMeshAgent  
 custom components  
 
-**Assessments:
+**Assessments:**
 
+* Describe the core "development loop" in Unity
 * Identify (label) UI elements on a screen capture.
 * Define GameObject
 * Define component
