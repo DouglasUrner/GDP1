@@ -14,7 +14,9 @@ GameObject
 component  
 Inspector window  
 Heirarchy window
-values 
+values  
+NavMeshAgent  
+custom components  
 
 **Assessments:
 
@@ -22,6 +24,8 @@ values
 * Define GameObject
 * Define component
 * Add a component to a GameObject
+* Describe the purpose of the Heirarchy view
 * Select a GameObject in the Heirarchy window and focus on it
 * Enter & exit play mode - testing
 * Describe the purpose of the Rigidbody component
+* How are custom components implemented?
