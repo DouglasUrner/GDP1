@@ -1,9 +1,13 @@
-Launch Unity, then:
+**Launch Unity, then:**
 * Work through the **Basic Tutorials**
   - 01: Play & Edit Mode (7 steps)
   - 02: Game Objects & Components (16 steps)
   - 03: Tweaking Components (14 steps)
   - 04: Prefab Power
+* Download GitHub Desktop
+* Go to http://github.com
+  - Search for UnityPlayground
+  - Clone using GitHub Desktop
 
 **UI Elements & Vocabulary:**  
 Scene view  
@@ -19,7 +23,6 @@ NavMeshAgent
 custom components  
 
 **Assessments:**
-
 * Describe the core "development loop" in Unity
 * Identify (label) UI elements on a screen capture.
 * Define GameObject
