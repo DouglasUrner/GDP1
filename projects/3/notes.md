@@ -37,6 +37,8 @@ Examples of games that tackle social issues:
 Designers Working on "serious games:"
 
 * [Ian Bogost]() - [Serious Games Summit](), [Persuasive Games: The Expressive Power of Video Games]()
+* [Jane McGonnigal]() - [Reality is Broken]()
+* [Brenda Romero]()
 
 Commentary on the project of greating social impact games:
 
