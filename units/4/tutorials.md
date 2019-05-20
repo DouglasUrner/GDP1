@@ -3,6 +3,7 @@
   - 01: Play & Edit Mode (7 steps)
   - 02: Game Objects & Components (16 steps)
   - 03: Tweaking Components (14 steps)
+    - Values can be tweaked in Play mode (but they will not stick).
   - 04: Prefab Power (17 steps)
 * Download GitHub Desktop
 * Go to http://github.com
