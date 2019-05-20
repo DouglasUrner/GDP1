@@ -25,6 +25,13 @@ Develop skills to work on a team development project.
 
 By the end of the semester you should be able to:
 
+* Analyze the impact of games in the world, analyze the development of game development tools
+* Independently implement a prototype for a game of your own design
+* Represent your game through computational models and abstractions
+* Analyze the design of a game and develop a critique if it (as a game, as a design (evidence of craft), and as a "force" in the world (what kind of interactions in the would does the game reward, what "model" of the world does it espouse)
+* Document the development of your game designs and share design ideas with team members & stakeholders
+* Collaborate on a team to create a game prototype, use industry tools that support collaboration (GitHub, Google Sheets & Docs)
+
 * Develop a concept for an interactive experience.
 * Identify the core mechanic (mode of interaction) used in your concept.
 * Create a digitial prototype to test your core mechanic.
