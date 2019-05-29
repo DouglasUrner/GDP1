@@ -3,7 +3,7 @@
 
 # Design Teams
 
-Select you partner - teams should be exactly two people, then start working on [Lessons 20](https://studio.code.org/s/csd3-2018/stage/20/puzzle/1) and [21](https://studio.code.org/s/csd3-2018/stage/21/puzzle/1) in Code.org.
+Select you partner - teams should be exactly two people, then start working on [Lessons 20: The Game Design Process](https://studio.code.org/s/csd3-2018/stage/20/puzzle/1) and [21: Using the Game Design Process](https://studio.code.org/s/csd3-2018/stage/21/puzzle/1) in Code.org.
 
 Make a copy of the [template][], then complete and submit by the end of the period.
 
