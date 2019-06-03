@@ -20,6 +20,11 @@
 
 ## Instructions
 
+1. Locate the **UnityPlayground** project folder.
+1. Make a copy by dragging it to your desktop.
+1. Launch Unity Desktop and Add the UnityPlayground project.
+1. Experiment with the Example projects to see how they play.
+1. Look at the **Project** pane to see the assets that are used to build the game. Identify the prefabs.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
