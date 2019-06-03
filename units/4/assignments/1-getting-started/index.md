@@ -20,6 +20,7 @@ In this assignment you will work through four basic Unity tutorials that will he
 
 ## Instructions
 
+1. Open the [submission template][template] and review the evidence that you will be submitting.
 1. Launch **Unity Hub** and select **Learn** in the sidebar.
 1. Work through each of the four tutorials:
    - Click **Download**
