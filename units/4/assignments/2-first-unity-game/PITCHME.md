@@ -1,18 +1,56 @@
-# Building Your First Unity Game
+## Building Your First Unity Game
+
+---
+
+@snap[north-west span-100]
+### Switch To One-Column Layout
+@snapend
+
+@snap[west span-60]
+1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.  
+2. Select the **One Column Layout** item.
+@snapend
+
+@snap[east span-40]
+![](units/4/assignments/2-first-unity-game/assets/one-column-layout.png)
+@snapend
 
 Note:
 
 ---
 
-### Switch To One-Column Layout
+@snap[north-west span-100]
+### Create A Folder For Your Game
+@snapend
 
-1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.
-1. Select the **One Column Layout** item.
+@snap[west span-60]
+1. Select the **Assets** folder in the Project pane.
+2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
+3. Select the **New Folder** item.  
+4. Name the folder **AsteroidMiner.**
+@snapend
 
-<img src="assets/one-column-layout.png" width="40%" float="right">
+@snap[east span-40]
+![](units/4/assignments/2-first-unity-game/assets/new-folder.png)
+@snapend
+
+Note:
 
 ---
 
-### Create A Folder For Your Game
+@snap[north-west span-100]
+### Create An Empty Scene
+@snapend
 
-<img src="assets/new-folder.png" width="40%" float="right">
+@snap[west span-60]
+1. Select the **AsteroidMiner** folder in the Project pane.
+2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
+3. Select the **Scene** item.  
+4. Name the scene **AsteroidMiner.**
+@snapend
+
+@snap[east span-40]
+![](units/4/assignments/2-first-unity-game/assets/new-scene.png)
+@snapend
+
+Note:
