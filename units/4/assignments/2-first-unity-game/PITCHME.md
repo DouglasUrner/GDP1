@@ -24,8 +24,9 @@ Note:
 @snapend
 
 @snap[west span-60]
-1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.
-1. Select the **One Column Layout** item.
+1. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.
+2. Select the **New Folder** item.
+3. Name the folder **AsteroidMiner.**
 @snapend
 
 @snap[east span-40]
