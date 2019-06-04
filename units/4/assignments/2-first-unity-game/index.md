@@ -8,7 +8,13 @@
 [slides]: <https://gitpitch.com/DouglasUrner/GDP1?p=units/4/assignments/2-first-unity-game>
 [template]: <https://docs.google.com/document/d/1Xoz-bjT4HfPt41hUefazcZuPo5vb6eDJupQLSq4mAP8/edit?usp=sharing>
 
-<!--- [Slides: SLIDE_DECK_TITLE][slides] - right-click and choose **Open link in a new tab** to view. --->
+<img src="assets/game-in-play.png" align="right">
+
+We'll start off by creating a small Unity game using the UnityPlayground assets. In the game an asteroid mining ship collects "nuggets" while dodging asteroids.
+
+The the main instructions for building the game are in the **Getting Started - Unity Playground** document in the UnityPlayground Documentation folder. But before you dive in, follow the instructions in the [slides][] to get your game set up.
+
+[Slides: SLIDE_DECK_TITLE][slides] - right-click and choose **Open link in a new tab** to view.
 
 ### Learning Targets:
 
