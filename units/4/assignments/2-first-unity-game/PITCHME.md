@@ -11,6 +11,8 @@ Note:
 1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.
 1. Select the **One Column Layout** item.
 
+<br>
+
 ---
 
 ### Create A Folder For Your Game
