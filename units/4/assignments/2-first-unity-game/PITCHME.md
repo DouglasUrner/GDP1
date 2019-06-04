@@ -2,6 +2,14 @@
 
 ---
 
+## Get Ready For The Tutorial
+
+1. Switch the Project pane to a one-column layout.
+1. Create a folder to hold your game.
+1. Create an empty scene in which to build your game.
+
++++
+
 @snap[north-west span-100]
 ### Switch To One-Column Layout
 @snapend
@@ -17,7 +25,7 @@
 
 Note: Many people find the one-column layout easier to read and navigate. If you need thumbnails of sprites or other visual assets, then the two-column layout may work better for you, but for now give the one-column layout a try.
 
----
++++
 
 @snap[north-west span-100]
 ### Create A Folder For Your Game
@@ -34,9 +42,11 @@ Note: Many people find the one-column layout easier to read and navigate. If you
 ![](units/4/assignments/2-first-unity-game/assets/new-folder.png)
 @snapend
 
-Note:
+Note: Creating a folder for each game helps to keep the project organized and keeps all of the assets for your game in one place.
 
----
+The UnityPlayground convention is to capitalize each word in the names of the games - with no spaces (UpperCamelCase).
+
++++
 
 @snap[north-west span-100]
 ### Create An Empty Scene
@@ -53,4 +63,8 @@ Note:
 ![](units/4/assignments/2-first-unity-game/assets/new-scene.png)
 @snapend
 
-Note:
+Note: The UnityPlayground naming convention is to name the scene file after the game, so we will do that too. The scene file name should be an exact match to the game name.
+
+---
+
+
