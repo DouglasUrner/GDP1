@@ -19,7 +19,10 @@ The the main instructions for building the game are in the **Getting Started - U
 
 ### Learning Targets:
 
-* I can ...
+* I can create folders in Unity.
+* I can create new scenes in Unity.
+* I can create **prefabs** in Unity.
+* I can adjust GameObject parameters in the Inspector.
 
 ## Instructions
 
