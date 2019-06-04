@@ -8,5 +8,5 @@
 @snapend
 
 @snap[east span-40]
-![](units/4/assiginments/2-first-unity-game/assets/one-column-layout.png)
+![](units/4/assignments/2-first-unity-game/assets/one-column-layout.png)
 @snapend
