@@ -9,7 +9,7 @@ Note:
 1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.
 1. Select the **One Column Layout** item.
 
-<img src="assets/one-column-layout.png" width="40%" float="right">
+<img src="assets/one-column-layout.png" width="40%" align="right">
 
 ---
 
