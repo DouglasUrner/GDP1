@@ -16,6 +16,14 @@
 
 ## Instructions
 
+1. Launch Unity Hub and open your UnityPlayground project.
+   - The UnityPlayground project folder should be on your desktop. If you don't have a copy of the project (or if you'd like to start over with a fresh copy), locate the folder on the P: drive (navigate to the Collaboration folder for our class in ```P:\Instruction\Douglas_Urner```) and drag the UnityPlayground folder to your desktop.
+1. Create a new folder for your game in the Project pane:
+   - Select the **Assets** folder.
+   - Click on the **Create** dropdown menu.
+   - Select **Folder.**
+1. In the UnityPlayground documentation folder find the **Getting Started - Unity Playground** document. Double-click on the document to open it.
+1. 
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
