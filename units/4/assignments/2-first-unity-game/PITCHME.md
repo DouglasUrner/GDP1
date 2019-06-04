@@ -24,13 +24,33 @@ Note:
 @snapend
 
 @snap[west span-60]
-1. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
-2. Select the **New Folder** item.  
-3. Name the folder **AsteroidMiner.**
+1. Select the **Assets** folder in the Project pane.
+2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
+3. Select the **New Folder** item.  
+4. Name the folder **AsteroidMiner.**
 @snapend
 
 @snap[east span-40]
 ![](units/4/assignments/2-first-unity-game/assets/new-folder.png)
+@snapend
+
+Note:
+
+---
+
+@snap[north-west span-100]
+### Create An Empty Scene
+@snapend
+
+@snap[west span-60]
+1. Select the **AsteroidMiner** folder in the Project pane.
+2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
+3. Select the **Scene** item.  
+4. Name the scene **AsteroidMiner.**
+@snapend
+
+@snap[east span-40]
+![](units/4/assignments/2-first-unity-game/assets/new-scene.png)
 @snapend
 
 Note:
