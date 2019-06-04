@@ -8,7 +8,7 @@
 [slides]: <https://gitpitch.com/DouglasUrner/COURSE_SHORT_NAME?p=units/UNIT_#/assignments/ASSIGNMENT_#-ASSIGNMENT_SHORT_NAME>
 [template]: <https://docs.google.com/document/d/1Xoz-bjT4HfPt41hUefazcZuPo5vb6eDJupQLSq4mAP8/edit?usp=sharing>
 
-[Slides: SLIDE_DECK_TITLE][slides] - right-click and choose **Open link in a new tab** to view.
+<!--- [Slides: SLIDE_DECK_TITLE][slides] - right-click and choose **Open link in a new tab** to view. --->
 
 ### Learning Targets:
 
