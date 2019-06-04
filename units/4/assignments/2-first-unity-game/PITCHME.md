@@ -6,10 +6,18 @@ Note:
 
 ### Switch To One-Column Layout
 
-<img src="assets/one-column-layout.png" width="40%" align="right">
+@snap
 
 1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.
 1. Select the **One Column Layout** item.
+
+@snapend
+
+@snap
+
+<img src="assets/one-column-layout.png" width="40%" align="right">
+
+@snapend
 
 Note:
 
