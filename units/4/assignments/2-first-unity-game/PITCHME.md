@@ -11,7 +11,9 @@ Note:
 1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.
 1. Select the **One Column Layout** item.
 
-<br>
+Note:
+
+The one-column layout makes it easier to see the contents of the assets folder.
 
 ---
 
