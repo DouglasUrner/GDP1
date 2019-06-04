@@ -17,7 +17,7 @@
 @snap[west span-55]
 @ol[](false)
 - Click on the "pancake menu" in the upper right-hand corner of the Project pane.
-- Select the **One Column Layout** item.
+- Select **One Column Layout.**
 @olend
 @snapend
 
@@ -36,8 +36,8 @@ Note: Many people find the one-column layout easier to read and navigate. If you
 @snap[west span-55]
 @ol[](false)
 - Select the **Assets** folder in the Project pane.  
-- In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
-- Select the **New Folder** item.  
+- In the upper-left corner of the Project pane, click on the **Create** dropdown.  
+- Select **New Folder.**  
 - Name the folder **AsteroidMiner.**  
 @olend
 @snapend
@@ -59,8 +59,8 @@ The UnityPlayground convention is to capitalize each word in the names of the ga
 @snap[west span-55]
 @ol[](false)
 - Select the **AsteroidMiner** folder in the Project pane.  
-- In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
-- Select the **Scene** item.  
+- In the upper-left corner of the Project pane, click on the **Create** dropdown.  
+- Select **Scene.**  
 - Name the scene **AsteroidMiner.**  
 @olend
 @snapend
@@ -91,5 +91,11 @@ Note: The UnityPlayground naming convention is to name the scene file after the 
 
 Note: 
 
-+++
+---
+
+### Work Through The Tutorial
+
+The whole process will probably take you less that 45 minutes.
+
+When you are done you will have a small game, and enough experience to critique in and start making improvements.
 
