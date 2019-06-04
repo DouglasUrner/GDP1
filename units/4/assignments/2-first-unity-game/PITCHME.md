@@ -81,7 +81,7 @@ Note: The UnityPlayground naming convention is to name the scene file after the 
 @ol[](false)
 - In the Project pane locate the Documentation folder in the Assets folder.  
 - Double click on **Getting Started - Unity Playground** to open it.  
-- Scroll down to the **Making your first game** at the bottom of page three.
+- Scroll down to **Making your first game** at the bottom of page three.
 @olend
 @snapend
 
@@ -93,9 +93,11 @@ Note:
 
 ---
 
+@snap[west]
 ### Work Through The Tutorial
 
 The whole process will probably take you less that 45 minutes.
 
 When you are done you will have a small game, and enough experience to critique in and start making improvements.
+@snapend
 
