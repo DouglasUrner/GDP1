@@ -1,9 +1,3 @@
-# Building Your First Unity Game
-
-Note:
-
----
-
 @snap[north-west span-100]
 ### Switch To One-Column Layout
 @snapend
@@ -16,13 +10,3 @@ Note:
 @snap[east span-40]
 <img src="units/4/assiginments/2-first-unity-game/assets/one-column-layout.png">
 @snapend
-
-Note:
-
-The one-column layout makes it easier to see the contents of the assets folder.
-
----
-
-### Create A Folder For Your Game
-
-<img src="assets/new-folder.png" width="40%" float="right">
