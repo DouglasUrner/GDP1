@@ -14,7 +14,7 @@
 ### Switch To One-Column Layout
 @snapend
 
-@snap[west span-60]
+@snap[west span-55]
 @ol[](false)
 - Click on the "pancake menu" in the upper right-hand corner of the Project pane.
 - Select the **One Column Layout** item.
@@ -33,7 +33,7 @@ Note: Many people find the one-column layout easier to read and navigate. If you
 ### Create A Folder For Your Game
 @snapend
 
-@snap[west span-60]
+@snap[west span-55]
 @ol[](false)
 - Select the **Assets** folder in the Project pane.  
 - In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
@@ -56,7 +56,7 @@ The UnityPlayground convention is to capitalize each word in the names of the ga
 ### Create An Empty Scene
 @snapend
 
-@snap[west span-60]
+@snap[west span-55]
 @ol[](false)
 - Select the **AsteroidMiner** folder in the Project pane.  
 - In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
@@ -77,7 +77,7 @@ Note: The UnityPlayground naming convention is to name the scene file after the 
 ### On To The Tutorial
 @snapend
 
-@snap[west span-60]
+@snap[west span-55]
 @ol[](false)
 - In the Project pane locate the Documentation folder in the Assets folder.  
 - Double click on the **Getting Started - Unity Playground** item to open it.  
