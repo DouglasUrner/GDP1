@@ -96,10 +96,8 @@ Note:
 @snap[west]
 ### Work Through The Tutorial
 
-@p
-The whole process will probably take you less that 45 minutes.
+The whole process will probably take you less that 45 minutes.  
 
-@p
 When you are done you will have a small game, and enough experience to critique it and start making improvements.
 @snapend
 
