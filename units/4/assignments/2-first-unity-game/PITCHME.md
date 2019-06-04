@@ -15,7 +15,7 @@
 @snapend
 
 @snap[west span-60]
-@ol
+@ol[](false)
 - Click on the "pancake menu" in the upper right-hand corner of the Project pane.
 - Select the **One Column Layout** item.
 @olend
@@ -34,10 +34,12 @@ Note: Many people find the one-column layout easier to read and navigate. If you
 @snapend
 
 @snap[west span-60]
-1. Select the **Assets** folder in the Project pane.  
-2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
-3. Select the **New Folder** item.  
-4. Name the folder **AsteroidMiner.**  
+@ol[](false)
+- Select the **Assets** folder in the Project pane.  
+- In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
+- Select the **New Folder** item.  
+- Name the folder **AsteroidMiner.**  
+@olend
 @snapend
 
 @snap[east span-40]
@@ -55,10 +57,12 @@ The UnityPlayground convention is to capitalize each word in the names of the ga
 @snapend
 
 @snap[west span-60]
-1. Select the **AsteroidMiner** folder in the Project pane.  
-2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
-3. Select the **Scene** item.  
-4. Name the scene **AsteroidMiner.**  
+@ol[](false)
+- Select the **AsteroidMiner** folder in the Project pane.  
+- In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
+- Select the **Scene** item.  
+- Name the scene **AsteroidMiner.**  
+@olend
 @snapend
 
 @snap[east span-40]
@@ -74,9 +78,11 @@ Note: The UnityPlayground naming convention is to name the scene file after the 
 @snapend
 
 @snap[west span-60]
-1. In the Project pane locate the Documentation folder in the Assets folder.  
-2. Double click on the **Getting Started - Unity Playground** item to open it.  
-3. Scroll down to the **Making your first game** at the bottom of page three.
+@ol[](false)
+- In the Project pane locate the Documentation folder in the Assets folder.  
+- Double click on the **Getting Started - Unity Playground** item to open it.  
+- Scroll down to the **Making your first game** at the bottom of page three.
+@olend
 @snapend
 
 @snap[east span-40]
