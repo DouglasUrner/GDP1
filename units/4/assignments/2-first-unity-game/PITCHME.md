@@ -67,4 +67,21 @@ Note: The UnityPlayground naming convention is to name the scene file after the 
 
 ---
 
+@snap[north-west span-100]
+### On To The Tutorial
+@snapend
+
+@snap[west span-60]
+1. In the Project pane locate the Documentation folder in the Assets folder.  
+2. Double click on the **Getting Started - Unity Playground** item to open it.  
+3. Scroll down to the **Making your first game** at the bottom of page three.
+@snapend
+
+@snap[east span-40]
+![](units/4/assignments/2-first-unity-game/assets/tutorial.png)
+@snapend
+
+Note: 
+
++++
 
