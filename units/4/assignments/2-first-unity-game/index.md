@@ -21,6 +21,7 @@ The the main instructions for building the game are in the **Getting Started - U
 
 * I can create folders in Unity.
 * I can create new scenes in Unity.
+* I can rename GameObjects and other Unity assets.
 * I can create **prefabs** in Unity.
 * I can adjust GameObject parameters in the Inspector.
 
@@ -28,12 +29,11 @@ The the main instructions for building the game are in the **Getting Started - U
 
 1. Launch Unity Hub and open your UnityPlayground project.
    - The UnityPlayground project folder should be on your desktop. If you don't have a copy of the project (or if you'd like to start over with a fresh copy), locate the folder on the P: drive (navigate to the Collaboration folder for our class in ```P:\Instruction\Douglas_Urner```) and drag the UnityPlayground folder to your desktop.
-1. Create a new folder for your game in the Project pane:
-   - Select the **Assets** folder.
-   - Click on the **Create** dropdown menu.
-   - Select **Folder.**
-1. In the UnityPlayground documentation folder find the **Getting Started - Unity Playground** document. Double-click on the document to open it.
-1. 
+1. Follow the instructions in the [slides][] to:
+   - Create a folder to hold your game's assets.
+   - Create a new scene file to build the game in.
+1. After you've set up your project, follow along in the **Getting Started** tutorial (in the Documents folder) to build your first game.
+1. As you're working, pay attention to the conventions used in the project and match them. Consistent code is a virtue.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
