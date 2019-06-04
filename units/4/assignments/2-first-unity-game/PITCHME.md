@@ -80,7 +80,7 @@ Note: The UnityPlayground naming convention is to name the scene file after the 
 @snap[west span-55]
 @ol[](false)
 - In the Project pane locate the Documentation folder in the Assets folder.  
-- Double click on the **Getting Started - Unity Playground** item to open it.  
+- Double click on **Getting Started - Unity Playground** to open it.  
 - Scroll down to the **Making your first game** at the bottom of page three.
 @olend
 @snapend
