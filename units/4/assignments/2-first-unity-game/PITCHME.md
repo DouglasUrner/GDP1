@@ -24,8 +24,8 @@ Note:
 @snapend
 
 @snap[west span-60]
-1. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.
-2. Select the **New Folder** item.
+1. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
+2. Select the **New Folder** item.  
 3. Name the folder **AsteroidMiner.**
 @snapend
 
