@@ -10,7 +10,8 @@
 
 <img src="assets/game-in-play.png" width="50%" align="right">
 
-We'll start off by creating a small Unity game using the UnityPlayground assets. In the game an asteroid mining ship collects "nuggets" while dodging asteroids.
+A great way to practice - and extend - what you learned in the introductory tutorials is to build a small game. 
+We'll start off using the UnityPlayground, a set of assets for creating 2D gams to build a small game. In the game an asteroid mining ship collects "nuggets" while dodging asteroids.
 
 The the main instructions for building the game are in the **Getting Started - Unity Playground** document in the UnityPlayground Documentation folder. But before you dive in, follow the instructions in the [slides][] to get your game set up.
 
