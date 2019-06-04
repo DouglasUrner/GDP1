@@ -15,7 +15,7 @@
 ![](units/4/assignments/2-first-unity-game/assets/one-column-layout.png)
 @snapend
 
-Note:
+Note: Many people find the one-column layout easier to read and navigate. If you need thumbnails of sprites or other visual assets, then the two-column layout may work better for you, but for now give the one-column layout a try.
 
 ---
 
