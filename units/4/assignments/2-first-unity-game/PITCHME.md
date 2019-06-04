@@ -15,8 +15,10 @@
 @snapend
 
 @snap[west span-60]
-1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.  
-2. Select the **One Column Layout** item.  
+@ol
+- Click on the "pancake menu" in the upper right-hand corner of the Project pane.
+- Select the **One Column Layout** item.
+@olend
 @snapend
 
 @snap[east span-40]
