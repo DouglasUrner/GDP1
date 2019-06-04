@@ -8,7 +8,7 @@
 
 @snap[west span-60]
 1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.  
-2. Select the **One Column Layout** item.
+2. Select the **One Column Layout** item.  
 @snapend
 
 @snap[east span-40]
@@ -24,10 +24,10 @@ Note:
 @snapend
 
 @snap[west span-60]
-1. Select the **Assets** folder in the Project pane.
+1. Select the **Assets** folder in the Project pane.  
 2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
 3. Select the **New Folder** item.  
-4. Name the folder **AsteroidMiner.**
+4. Name the folder **AsteroidMiner.**  
 @snapend
 
 @snap[east span-40]
@@ -43,10 +43,10 @@ Note:
 @snapend
 
 @snap[west span-60]
-1. Select the **AsteroidMiner** folder in the Project pane.
+1. Select the **AsteroidMiner** folder in the Project pane.  
 2. In the upper-left corner of the Project pane, click on the **Create** dropdown menu.  
 3. Select the **Scene** item.  
-4. Name the scene **AsteroidMiner.**
+4. Name the scene **AsteroidMiner.**  
 @snapend
 
 @snap[east span-40]
