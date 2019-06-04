@@ -14,7 +14,7 @@ Note:
 @snapend
 
 @snap[east span-40]
-<img src="GDP1/units/1/assiginments/2-first-unity-game/assets/one-column-layout.png" width="40%" align="right">
+<img src="units/4/assiginments/2-first-unity-game/assets/one-column-layout.png">
 @snapend
 
 Note:
