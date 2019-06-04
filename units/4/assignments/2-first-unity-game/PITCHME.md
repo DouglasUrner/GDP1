@@ -1,4 +1,4 @@
-# Assignment Name
+# Building Your First Unity Game
 
 Note:
 
