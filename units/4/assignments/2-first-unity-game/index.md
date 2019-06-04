@@ -5,7 +5,7 @@
 
 ## Building Your First Unity Game
 
-[slides]: <https://gitpitch.com/DouglasUrner/COURSE_SHORT_NAME?p=units/UNIT_#/assignments/ASSIGNMENT_#-ASSIGNMENT_SHORT_NAME>
+[slides]: <https://gitpitch.com/DouglasUrner/GDP1?p=units/4/assignments/2-first-unity-game>
 [template]: <https://docs.google.com/document/d/1Xoz-bjT4HfPt41hUefazcZuPo5vb6eDJupQLSq4mAP8/edit?usp=sharing>
 
 <!--- [Slides: SLIDE_DECK_TITLE][slides] - right-click and choose **Open link in a new tab** to view. --->
