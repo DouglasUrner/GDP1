@@ -4,9 +4,9 @@ Note:
 
 ---
 
-### Switch To One-Column Layout
-
 @snap[west span-60]
+
+### Switch To One-Column Layout
 
 1. Click on the "pancake menu" in the upper right-hand corner of the Project pane.
 1. Select the **One Column Layout** item.
@@ -15,7 +15,7 @@ Note:
 
 @snap[east span-40]
 
-<img src="assets/one-column-layout.png" width="40%" align="right">
+<img src="units/1/assiginments/2-first-unity-game/assets/one-column-layout.png" width="40%" align="right">
 
 @snapend
 
