@@ -1,7 +1,7 @@
 ---?image=units/4/assignments/2-first-unity-game/assets/game-in-play.png
 
 @snap[south span-100]
-### Building Your First Unity Game
+### @color[white](Building Your First Unity Game)
 @snapend
 
 ---
