@@ -12,19 +12,26 @@
 
 ### Learning Targets:
 
-* I can add a project to Unity Hub.
-* I can select the version of Unity to use to edit a project.
 * I can navigate the project pane in the Unity UI.
 * I can load a scene in the Unity Editor.
 * I can add prefabs to a scene.
+* I can adjust game object component settings in the Inspector.
+* I can make intentional changes to a game's design.
 
 ## Instructions
 
-1. Locate the **UnityPlayground** project folder.
-1. Make a copy by dragging it to your desktop.
-1. Launch Unity Desktop and Add the UnityPlayground project.
-1. Experiment with the Example projects to see how they play.
-1. Look at the **Project** pane to see the assets that are used to build the game. Identify the prefabs.
+1. Open your UnityPlayground project.
+1. Identify some possible improvements to your game.
+1. In the Documentation folder, open the Cheatsheets and look at the available scripts, how could you use them to:
+   - Provide better feedback to the player?
+   - Make the game more visually interesting?
+   - Make the game more fun to play?
+   - Make the game more challenging?
+1. Arrange them in order:
+   - Most important.
+   - Easiest.
+   - Best "return on investment."
+1. Start implementing your changes - see how much you can get done by the due date.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
 
