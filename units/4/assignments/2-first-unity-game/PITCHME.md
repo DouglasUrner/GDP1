@@ -1,10 +1,12 @@
+---?image=units/4/assignments/2-first-unity-game/assets/game-in-play.png
+
 @snap[west span-48]
 ## Building Your First Unity Game
 @snapend
 
-@snap[east span-48]
+<!--- @snap[east span-48]
 ![](units/4/assignments/2-first-unity-game/assets/game-in-play.png)
-@snapend
+@snapend --->
 
 ---
 
