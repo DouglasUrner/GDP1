@@ -28,6 +28,7 @@ The the main instructions for building the game are in the **Getting Started - U
 ## Instructions
 
 1. Launch Unity Hub and open your UnityPlayground project.
+   - Make **sure** that you are opening your copy of the project using Unity version 2018 - version 2019 **does not** currently work with the UnityPlayground project, if you have opened the project with the 2019 version you **must** start over with a fresh version of the project.
    - The UnityPlayground project folder should be on your desktop. If you don't have a copy of the project (or if you'd like to start over with a fresh copy), locate the folder on the P: drive (navigate to the Collaboration folder for our class in ```P:\Instruction\Douglas_Urner```) and drag the UnityPlayground folder to your desktop.
 1. Follow the instructions in the [slides][] to:
    - Create a folder to hold your game's assets.
