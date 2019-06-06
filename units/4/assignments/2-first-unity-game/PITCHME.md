@@ -8,6 +8,15 @@
 
 ## Make A Copy of the UnityPlayground Project
 
+There are two options:
+
+**Copy for the class shared files:**
+
+1. Locate the UnityPlayground project folder in the shared files for our class.
+1. Drag the project folder to your Desktop.
+
+**Clone from GitHub:**
+
 Note: The master copy is an GitHub as a fork of [Unity-Technologies/UnityPlayground][playground].
 
 [playground]: <https://github.com/Unity-Technologies/UnityPlayground>
