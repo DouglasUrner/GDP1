@@ -35,7 +35,7 @@ Note: The master copy is an GitHub as a fork of [Unity-Technologies/UnityPlaygro
 ![](units/4/assignments/2-first-unity-game/assets/one-column-layout.png)
 @snapend
 
-Note: Many people find the one-column layout easier to read and navigate. If you need thumbnails of sprites or other visual assets, then the two-column layout may work better for you, but for now give the one-column layout a try.
+Note: Many people find the one-column layout easier to read and navigate. If you need thumbnails of sprites or other visual assets, then the two-column layout may work better for you, but for now give the one-column layout a try. If you do decide that you prefer the two-column layout, note that you can adjust the width of the columns.
 
 +++
 
