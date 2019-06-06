@@ -6,6 +6,12 @@
 
 ---
 
+## Make A Copy of the UnityPlayground Project
+
+Note: The master copy is an GitHub as a fork of [UnityTechnologies/UnityPlayground][playground].
+
+[playground]: <https://github.com/UnityTechnologies/UnityPlayground>
+
 ## Get Ready For The Tutorial
 
 1. Switch the Project pane to a one-column layout.
