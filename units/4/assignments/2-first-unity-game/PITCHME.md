@@ -21,6 +21,8 @@ Note: The master copy is an GitHub as a fork of [Unity-Technologies/UnityPlaygro
 
 [playground]: <https://github.com/Unity-Technologies/UnityPlayground>
 
+---
+
 ## Get Ready For The Tutorial
 
 1. Switch the Project pane to a one-column layout.
