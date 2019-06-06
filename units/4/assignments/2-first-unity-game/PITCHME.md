@@ -8,9 +8,9 @@
 
 ## Make A Copy of the UnityPlayground Project
 
-Note: The master copy is an GitHub as a fork of [UnityTechnologies/UnityPlayground][playground].
+Note: The master copy is an GitHub as a fork of [Unity-Technologies/UnityPlayground][playground].
 
-[playground]: <https://github.com/UnityTechnologies/UnityPlayground>
+[playground]: <https://github.com/Unity-Technologies/UnityPlayground>
 
 ## Get Ready For The Tutorial
 
