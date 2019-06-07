@@ -5,8 +5,12 @@
 
 ## Getting Started with Unity
 
-In this assignment you will work through four basic Unity tutorials that will help you develop an understanding of the Unity UI and some of the key terms and concepts that you will encounter in every Unity project.
+In this assignment you will work through four basic Unity tutorials that will help you develop an understanding of the Unity UI and some of the key terms and concepts that you will encounter in every Unity project. The terms are explained in the tutorial sections, you can also find definitions in the [Unity Documentation][docs]. There are two sections to the documentation:
+* The **Manual**, and
+* The **Scripting API.**
+Make sure that you are looking at the Manual and not the Scripting API sections.
 
+[docs]: <https://docs.unity3d.com/Manual/index.html>
 [slides]: <https://gitpitch.com/DouglasUrner/GDP1?p=units/4/assignments/1-unity-intro>
 [template]: https://docs.google.com/document/d/1Ik5NpGtfq0hYAc9XHu7-K6PYTf-SPlwH-qFgQGO-hDo/edit?usp=sharing
 
