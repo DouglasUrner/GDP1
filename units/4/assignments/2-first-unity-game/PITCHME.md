@@ -107,7 +107,7 @@ Note: The UnityPlayground naming convention is to name the scene file after the 
 @snapend
 
 @snap[east span-40]
-![](units/4/assignments/2-first-unity-game/assets/new-scene.png)
+![](units/4/assignments/2-first-unity-game/assets/empty-scene.png)
 @snapend
 
 Note: 
