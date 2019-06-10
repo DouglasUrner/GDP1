@@ -58,7 +58,7 @@ Note: Many people find the one-column layout easier to read and navigate. If you
 @ol[](false)
 - Select the **Assets** folder in the Project pane.  
 - In the upper-left corner of the Project pane, click on the **Create** dropdown.  
-- Select **New Folder.**  
+- Select **Folder.**  
 - Name the folder **AsteroidMiner.**  
 @olend
 @snapend
@@ -83,6 +83,7 @@ The UnityPlayground convention is to capitalize each word in the names of the ga
 - In the upper-left corner of the Project pane, click on the **Create** dropdown.  
 - Select **Scene.**  
 - Name the scene **AsteroidMiner.**  
+- Open the scene by, double-clicking on the **AsteroidMiner** scene that you just created.
 @olend
 @snapend
 
