@@ -93,6 +93,25 @@ The UnityPlayground convention is to capitalize each word in the names of the ga
 
 Note: The UnityPlayground naming convention is to name the scene file after the game, so we will do that too. The scene file name should be an exact match to the game name.
 
++++
+
+@snap[north-west span-100]
+### Open Your AsteroidMiner Scene
+@snapend
+
+@snap[west span-55]
+@ol[](false)
+- Double-click on the **AsteroidMiner** scene that you just created.
+- It will load, giving you a empty scene.
+@olend
+@snapend
+
+@snap[east span-40]
+![](units/4/assignments/2-first-unity-game/assets/new-scene.png)
+@snapend
+
+Note: 
+
 ---
 
 @snap[north-west span-100]
