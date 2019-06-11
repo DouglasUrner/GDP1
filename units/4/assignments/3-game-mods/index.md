@@ -21,7 +21,7 @@
 ## Instructions
 
 1. Open your UnityPlayground project.
-1. Identify some possible improvements to your game.
+1. Identify some possible improvements to your game, and list them in your notebook. Be sure to label and date the page.
 1. In the Documentation folder, open the Cheatsheets and look at the available scripts, how could you use them to:
    - Provide better feedback to the player?
    - Make the game more visually interesting?
@@ -31,6 +31,7 @@
    - Most important.
    - Easiest.
    - Best "return on investment."
+1. In your notes plan out your changes - identify the ones you plan to make, plan steps, make sketches, etc.
 1. Start implementing your changes - see how much you can get done by the due date.
 1. Make a copy of the [submission template][template] and fill it out.
 1. Once you've completed the template, submit it.
