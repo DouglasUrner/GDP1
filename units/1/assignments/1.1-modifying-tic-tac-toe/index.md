@@ -1,4 +1,5 @@
 <img src="assets/tic-tac-toe.svg">
+
 ## Summary
 Analyze Tic-Tac-Toe and then redesign the game by changing a few rules.
 
