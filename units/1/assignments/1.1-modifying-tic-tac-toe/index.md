@@ -1,4 +1,4 @@
-<img src="assets/tic-tac-toe.svg">
+<img src="assets/tic-tac-toe.svg" width="300px" float="right">
 
 ## Summary
 Analyze Tic-Tac-Toe and then redesign the game by changing a few rules.
