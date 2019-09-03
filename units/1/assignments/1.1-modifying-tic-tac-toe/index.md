@@ -1,18 +1,18 @@
+<img src="assets/tic-tac-toe.svg">
+
 ## Summary
 Analyze Tic-Tac-Toe and then redesign the game by changing a few rules.
 
 ## Goals
-* understanding how changing game rules changes the system of a game
-* introduction to the iterative process
-* icebreaker game design exercise
+* Understand that small changes to game mechanics can have a large impact on the system of a game.
+* Practice using the iterative process.
+* Get to know some of your coleagues.
 
-## Before the exercise
-Through class discussion, make a general list of the rules of Tic-Tac-Toe. For example:
+## Understand the Mechanics
 
-1. play takes places on a 3x3 grid
-2. two players alternate turns placing an X or an O in an empty square
-3. three of the same symbols in a row wins
-4. if no one can play, the game ends in a draw
+1. Develop a common understanding of the rules of Tic-Tac-Toe - I'll write them on the board, but you should also be reconding them in your notes.
+1. Why is Tic-Tac-Toe a "solved problem?"
+1. What changes could we make to make the game more engaging and challenging - to increase the "meaningfulness" of the player's decisions?
 
 Then discuss why Tic-Tac-Toe always ends in a draw for most players. Have the class brainstorm what they might modify in order to change the game: the grid size and shape, the number of players, the winning conditions, the things you can do on a turn, etc.
 
