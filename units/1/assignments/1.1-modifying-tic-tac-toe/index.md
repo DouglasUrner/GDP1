@@ -1,12 +1,25 @@
 <img src="assets/tic-tac-toe.svg" width="300px" align="right">
 
-## Summary
-Analyze Tic-Tac-Toe and then redesign the game by changing a few rules.
+## Overview
+
+The classic game Tic-Tac-Toe is a ***solved problem*** and it rapidly becomes uninteresting as players figure out that thero are very few opportunities to make ***meaningful decisions*** in the course of a game. In this assignment you are going to work with your table partner to experiment with changes to the ***mechanics*** of Tic-Tac-Toe in hopes of transforming it into a challenging and engaging game.
+
+In this assignment you will be practicing the ***iterative*** process that is at the core of most design work to test out your ideas for improvements to Tic-Tac-Toe.
 
 ## Goals
 * Understand that small changes to game mechanics can have a large impact on the system of a game.
 * Practice using the iterative process.
 * Get to know some of your coleagues.
+
+## The Process
+
+### Define the Problem
+
+### Brainstorm New Mechanics
+
+### Playtest
+
+### Iterate
 
 ## Understand the Mechanics
 
