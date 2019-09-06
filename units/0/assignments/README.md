@@ -1,6 +1,6 @@
 # Unit 0 Assignments
 
-## [Start Notebook]()
+## [Start Notebook](0.1-start-notebook)
 
 * Follow instructions to setup their notebook in the requested format.
 * Try out guided note taking.
