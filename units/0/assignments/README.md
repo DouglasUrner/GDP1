@@ -5,14 +5,14 @@
 * Follow instructions to setup their notebook in the requested format.
 * Try out guided note taking.
 
-## [Canvas Account]()
+## [Canvas Account](0.2-canvas-account)
 
 * Follow instructions to create a Canvas account.
 * Follow instructions to edit the account settings.
 * Find assignments and understand parameters.
 * Access Canvas from a non-lab computer.
 
-## [File Management]()
+## [File Management](0.3-file-management)
 
 * Create and name folders (directories) on lab computers (Windows 10) and Google Drive.
 * Move and rename folders.
@@ -23,4 +23,4 @@
 * Attach a PDF of a Google Doc to a submission for a Canvas assignment.
 * Create a bookmark.
 
-## [First Resubmission]()
+## [First Resubmission](0.4-first-resubmission)
