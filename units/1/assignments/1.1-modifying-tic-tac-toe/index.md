@@ -2,7 +2,7 @@
 
 <img src="assets/tic-tac-toe.svg" width="300px" align="right">
 
-The classic game Tic-Tac-Toe is a ***solved problem*** and it rapidly becomes uninteresting as players figure out that thero are very few opportunities to make ***meaningful decisions*** in the course of a game. In this assignment you are going to work with your table partner to experiment with changes to the ***mechanics*** of Tic-Tac-Toe in hopes of transforming it into a challenging and engaging game.
+The classic game Tic-Tac-Toe is a ***solved problem*** and it rapidly becomes uninteresting as players figure out that there are very few opportunities to make ***meaningful decisions*** in the course of a game. In this assignment you are going to work with your table partner to experiment with changes to the ***mechanics*** of Tic-Tac-Toe in hopes of transforming it into a challenging and engaging game.
 
 In this assignment you will be practicing the ***iterative*** process that is at the core of most design work to test out your ideas for improvements to Tic-Tac-Toe.
 
@@ -15,11 +15,19 @@ In this assignment you will be practicing the ***iterative*** process that is at
 
 ### Define the Problem
 
-### Brainstorm New Mechanics
+As we discuss the good and bad points of Tic-Tac-Toe, make some notes. The bad points could be the seeds of ideas about how to fix the game, and the good points will help you to keep the character of the game intact.
+
+You may also find it useful to write out the rules of the game - they can help you think about what you could change.
+
+### Brainstorm New Or Modified Mechanics
+
+
 
 ### Playtest
 
 ### Iterate
+
+<!--
 
 ## Understand the Mechanics
 
@@ -34,4 +42,4 @@ Pairs of students try to redesign the game in order to increase the space of pos
 
 As they design, have them change as little as possible – one, two, or three rules at the most. They should follow the iterative process of making small changes, playing their modified version, analyzing how they affected the game, and then redesigning again.
 
-Finally, groups can share their modifications with the class, and what did and didn’t work. If there are too many groups for everyone to share, then pairs of groups can play each others’ games and discuss.
+Finally, groups can share their modifications with the class, and what did and didn’t work. If there are too many groups for everyone to share, then pairs of groups can play each others’ games and discuss. -->
