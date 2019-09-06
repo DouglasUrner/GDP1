@@ -5,6 +5,7 @@
 * Design process
 * Iteration
 * Playtesting
+* Collaboration
 * Documentation - Instructions for new version of tic-tac-toe
 
 ## [Fixing A Broken Game](1.2-fixing-a-broken-game)
