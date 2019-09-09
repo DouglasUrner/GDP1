@@ -1,5 +1,8 @@
 ## Overview
 
+[slides]: <>
+[template]: <https://docs.google.com/document/d/1y_arThQnls5t8mO0lYdUx9dvyQ5qvOsmXzMaxIGe3wc/edit?usp=sharing>
+
 <img src="assets/tic-tac-toe.svg" width="300px" align="right">
 
 The classic game Tic-Tac-Toe is a ***solved problem*** and it rapidly becomes uninteresting as players figure out that there are very few opportunities to make ***meaningful decisions*** in the course of a game. In this assignment you are going to work with your table partner to experiment with changes to the ***mechanics*** of Tic-Tac-Toe in hopes of transforming it into a challenging and engaging game.
