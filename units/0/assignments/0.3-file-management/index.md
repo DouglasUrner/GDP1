@@ -13,5 +13,5 @@
 ## Instructions
 
 1. Follow along in class, or use [the slides][slides] to guide you through setting up folders on Windows and Google Drive for this class.
-
-## Submission
+1. After setting up the folders and making screen captures (see the slides for how to do this if you've forgotten), make an editable copy of the [submission template][template] and complete it.
+1. Use the blue Submit Assignment button in Canvas to submit your copy of the template.
