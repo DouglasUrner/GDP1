@@ -14,13 +14,20 @@
 
 ## [File Management](0.3-file-management)
 
-* Create and name folders (directories) on lab computers (Windows 10) and Google Drive.
+* Create and name folders (directories) on lab computers (Windows 10) and on Google Drive.
 * Move and rename folders.
 * Move and rename files.
-* Make and save a screen capture using the Snipping Tool.
-* Copy a Google Doc.
-* Save a PDF of a Google Doc.
+* Make and save a screen capture using **Snipping Tool** (Windows 7 & 10) or **Snip & Sketch** (Windows 10).
+* Make a copy a Google Doc.
+* Download a a Google Doc as a PDF.
 * Attach a PDF of a Google Doc to a submission for a Canvas assignment.
 * Create a bookmark.
+* Make shortcuts in File Explorer.
 
 ## [First Resubmission](0.4-first-resubmission)
+
+* View the rubric for an assignment.
+* Check feedback on an assignment.
+* Make corrections based on the feedback.
+* Check the assignment close date.
+* Resubmit before the close date.
