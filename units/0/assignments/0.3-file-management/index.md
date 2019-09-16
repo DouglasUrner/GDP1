@@ -6,6 +6,7 @@
 ### Learning Targets:
 
 I can:
+
 * Setup class folders on Windows & Google Drive
 * Make an editable copy of a Google Doc
 * Make screen captures & insert them into a Google Doc
