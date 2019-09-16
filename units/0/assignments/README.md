@@ -5,7 +5,7 @@
 * Follow instructions to setup their notebook in the requested format.
 * Try out guided note taking.
 
-## [Canvas Account](0.2-canvas-account)
+## [Canvas Account](https://github.com/DouglasUrner/Common/tree/master/assignments/canvas-account)
 
 * Follow instructions to create a Canvas account.
 * Follow instructions to edit the account settings.
