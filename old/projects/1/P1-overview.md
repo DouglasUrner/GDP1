@@ -1,10 +1,10 @@
 ---
 ---
 
-[plan]: https://douglasurner.github.io/GDP1/projects/1/P1.1-concept-and-plan.html
-[development]: https://douglasurner.github.io/GDP1/projects/1/P1.2-develop.html
-[evaluation]: https://douglasurner.github.io/GDP1/projects/1/P1.3-evaluate.html
-[iteration]: https://douglasurner.github.io/GDP1/projects/1/P1.4-iterate.html
+[plan]: https://douglasurner.github.io/GDP1/old/projects/1/P1.1-concept-and-plan.html
+[development]: https://douglasurner.github.io/old/GDP1/projects/1/P1.2-develop.html
+[evaluation]: https://douglasurner.github.io/old/GDP1/projects/1/P1.3-evaluate.html
+[iteration]: https://douglasurner.github.io/old/GDP1/projects/1/P1.4-iterate.html
 
 ## Interactive Card Project
 
