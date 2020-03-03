@@ -1,6 +1,6 @@
 ---
 ---
-
+[interactive card]: <https://studio.code.org/s/csd3-2019/stage/14/puzzle/1>
 [plan]: https://douglasurner.github.io/GDP1/old/projects/1/P1.1-concept-and-plan.html
 [development]: https://douglasurner.github.io/old/GDP1/projects/1/P1.2-develop.html
 [evaluation]: https://douglasurner.github.io/old/GDP1/projects/1/P1.3-evaluate.html
@@ -8,7 +8,7 @@
 
 ## Interactive Card Project
 
-With **Booleans** and **conditionals** you now have the tools to control the behavior of a program that you design. For this project we will exercise those skills by creating an interactive card to share with someone you care about.
+With **Booleans** and **conditionals** you now have the tools to control the behavior of a program that you design. For this project we will exercise those skills by creating an **[interactive card][]** to share with someone you care about.
 
 The projects has four phases:
 
