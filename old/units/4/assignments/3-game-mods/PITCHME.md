@@ -1,5 +1,0 @@
-# Assignment Name
-
-Note:
-
----
